@@ -1,0 +1,148 @@
+/* CSS Document */
+.AncientItemName {
+	font-size:10px;
+	color:#9F0;
+	background-color:#06F;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.SocketItemName {
+	font-size:10px;
+	font-weight:bold;
+	color:#C3C;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.ExcellentItemName {
+	font-size:10px;
+	color:#0F9;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.LuckAddItemName {
+	font-size:10px;
+	color:#7DAEFF;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.NormalItemName {
+	font-size:10px;
+	color:#EEE;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.HighLevelItemName {
+	font-size:10px;
+	color:#FC3;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.ItemDescription {
+	font-size:9px;
+	text-align:center;
+	background:#080705;
+	color:#EEE;
+	font-size:9px;
+	display:none;
+}
+
+.ItemDefense {
+	color:#EEE;
+}
+
+.ItemDefenseExcellent {
+	color:#7DAEFF;
+}
+
+.ItemDamage {
+	color:#EEE;
+}
+
+.ItemDamageExcellent {
+	color:#7DAEFF;
+}
+
+.ItemAttackSpeed {
+	color:#EEE;
+}
+
+.ItemDurability {
+	color:#EEE;
+}
+
+.ItemResistance {
+	color:#EEE;
+}
+
+.Itemrequire_oncement {
+	color:#EEE;
+}
+
+.ItemLevelrequire_oncement {
+	color:#EEE;
+}
+
+.ItemClassrequire_oncement {
+	color:#EEE;
+}
+
+.ItemAncientOption {
+	color:#7DAEFF;
+}
+
+.ItemMagicPower {
+	color:#7DAEFF;
+}
+
+.Item380Option {
+	color:#B58FB6;
+}
+
+.ItemHarmony {
+	color:#FC3;
+}
+
+.ItemSkill {
+	color:#7DAEFF;
+}
+
+.ItemLuck {
+	color:#7DAEFF;
+}
+
+.ItemAddOption {
+	color:#7DAEFF;
+}
+
+.ItemExcellentOptions {
+	color:#7DAEFF;
+}
+
+.ItemSocketTitle {
+	color:#C09;
+}
+
+.ItemSocketDisabled {
+	color:#777;
+}
+
+.ItemSocketOption {
+	color:#7DAEFF;
+}

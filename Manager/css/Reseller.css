@@ -1,0 +1,26 @@
+.NewResellerTable
+{
+	width: 99%;
+	margin: auto;
+}
+
+.NewResellerTable th
+{
+	text-align:right;
+}
+
+.ManageResellerTable
+{
+	width: 99%;
+	margin: auto;
+}
+
+.ManageResellerTable th
+{
+	text-align:center;
+}
+
+.ManageResellerTable td
+{
+	text-align:center;
+}

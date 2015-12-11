@@ -1,0 +1,705 @@
+//ACC REGISTER
+//Config name			Show name					Default value				Description
+AccRegisterOneEmail		"E-mail único"				"false"						"Permitir ou não a criação de contas com e-mail repetido."
+AccRegisterBlocNew		"Criar conta bloqueada"		"false"						"Criar a conta bloqueada, liberarando somente após a confirmação de e-mail."
+AccRegister--
+AccRegisterVipType		"Bonus VIP"					"0"							"Tipo de VIP ao criar a conta."
+AccRegisterVipDays		"Dias VIP"					"0"							"Quantidade de dias bonus para o VIP."
+AccRegister--
+AccRegisterCurrency1	"Bonus Moeda 1"				"0"							"Quantidade de bonus da Moeda 1 dado no cadastro"
+AccRegisterCurrency2	"Bonus Moeda 2"				"0"							"Quantidade de bonus da Moeda 2 dado no cadastro"
+AccRegisterCurrency3	"Bonus Moeda 3"				"0"							"Quantidade de bonus da Moeda 3 dado no cadastro"
+AccRegisterCurrency4	"Bonus Moeda 4"				"0"							"Quantidade de bonus da Moeda 4 dado no cadastro"
+AccRegisterCurrency5	"Bonus Moeda 5"				"0"							"Quantidade de bonus da Moeda 5 dado no cadastro"
+
+//BCASH
+//Config name			Show name					Default value				Description
+BcashEmail				"Email Bcash"				"SEU@EMAIL.COM"				"Inserir o e-mail do Bcash para utilizar a confirmação automática"
+BcashToken				"Token Bcash"				"SEU_TOKEN_AQUI"			"Inserir o Token gerado no site do Bcash para utilizar a confirmação automática"
+
+//CREDIT SHOP
+//Config name			Show name					Default value				Description
+CreditShopPackageCols	"Colunas para exibição"		"3"							"Quantas colunas serão utilizadas para organizar o layout da vitrine da loja de créditos"
+
+//DONATIONS
+//Config name			Show name					Default value				Description
+DonationsMessage		"Aviso de confirmação"		"true"						"Notificar o usuário via AVISO do site sobre a confirmação de depósitos."
+DonationsMail			"E-mail de confirmação"		"true"						"Notificar o usuário via E-MAIL sobre a confirmação de depósitos."
+Donations--
+DonationsPercentDeposit	"Porcentagem Depósito"		"100"						"Porcentagem a creditar dos valores doados por depósito. O valor 100 é o padrão, que não irá adicionar nem remover nada."
+DonationsPercentPagSeg	"Porcentagem PagSeguro"		"100"						"Porcentagem a creditar dos valores doados pelo PagSeguro. O valor 100 é o padrão, que não irá adicionar nem remover nada."
+DonationsPercentPayPal	"Porcentagem PayPal"		"100"						"Porcentagem a creditar dos valores doados pelo PayPal. O valor 100 é o padrão, que não irá adicionar nem remover nada."
+DonationsPercentMoIP	"Porcentagem MoIP"			"100"						"Porcentagem a creditar dos valores doados pelo MoIP. O valor 100 é o padrão, que não irá adicionar nem remover nada."
+DonationsPercentBcash	"Porcentagem Bcash"			"100"						"Porcentagem a creditar dos valores doados pelo Bcash. O valor 100 é o padrão, que não irá adicionar nem remover nada."
+
+//HELP DESK
+//Config name			Show name					Default value				Description
+HelpDeskMaxFiles		"Máximo de anexos"			"5"							"Quantos arquivos podem ser anexados em uma mensagem no atendimento."
+HelpDeskAllowedExt		"Extensões permitidas"		"jpg,gif,png,bmp"			"Extensões permitidas para arquivos anexados no atendimento. Separar por vírgulas, sem espaços."
+HelpDeskUploadDir		"Diretório de anexos"		"Upload"					"Diretório para envio dos anexos do atendimento."
+HelpDesk--
+HelpDeskFloodTime		"Anti-flood"				"30"						"Minutos de espera para abertura de um novo atendimento."
+HelpDesk--
+HelpDeskMessage			"Aviso de resposta"			"true"						"Notificar o usuário via AVISO do site sobre a resposta de um atendimento."
+HelpDeskMail			"E-mail de resposta"		"true"						"Notificar o usuário via E-MAIL sobre a resposta de um atendimento."
+
+//MAIL SERVICE
+//Config name			Show name					Default value				Description
+MailServiceFromName		"Nome do Rementente"		"Ferrarezi Web"				"Nome que aparecerá no e-mail enviado. Exemplo: De Xxxxxx"
+MailServiceFromMail		"Endereço do Rementente"	"server@dominio.com"		"Endereço de origem do e-mail enviado."
+MailService--
+MailServiceAuthSMTP		"Autenticar SMTP"			"true"						"Autenticar ou não com o servidor de SMTP antes do envio"
+MailServiceAuthPOP3		"Autenticar POP"			"false"						"Autenticar ou não com o servidor de POP antes do envio"
+MailServiceSMTPAddr		"Endereço do SMTP"			"smtp.seudominio.com"		"Endereço do servidor SMTP"
+MailServiceSMTPPort		"Porta do SMTP"				"25"						"Porta usada para conexão com o servidor de e-mail SMTP"
+MailServicePOP3Addr		"Endereço do POP"			"pop3.seudominio.com"		"Endereço do servidor POP"
+MailServicePOP3Port		"Porta do POP"				"110"						"Porta usada para conexão com o servidor de e-mail POP"
+MailService--
+MailServiceSMTPUser		"Usuário do servidor"		"alguem@seudominio.com"		"Usuário para autenticação com o servidor de e-mail"
+MailServiceSMTPPass		"Senha do servidor"			"SenhaDoServidor123"		"Senha para autenticação com o servidor de e-mail"
+MailService--
+MailServiceEncrypt		"Criptografia SMTP"			""							"Criptografia, se necessário, usar ssl or tls"
+MailServiceMsgCharset	"Charset"					"utf-8"						"Charset utilizado para entrega das mensagens"
+MailServiceMailerLang	"Idioma"					"br"						"Idioma para o PHPMailer (br,es,en)"
+MailService--
+MailServiceSMTPDebug	"Depurador SMTP"			"0"							"0 = nenhum / 1 = básico / 2 = intermediário / 4 = avançado"
+MailServicePOPDebug		"Depurador POP"				"0"							"0 = nenhum / 1 = depurar"
+MailService--
+MailServiceMLPerSend	"Mensagens por envio"		"50"						"Número de mensagens enviadas (CCO) a cada envio de e-mails"
+MailServiceMLInterval	"Intervalo entre envios"	"10"						"Intervalo entre envios de e-mail, em SEGUNDOS"
+MailServiceMLBindMail	"E-mail de destino"			"players@muserver.com"		"E-mail para mostrar no envio (pode ser um e-mail inexistente)"
+MailServiceMLBindName	"Nome do destinatário"		"Players MUSERVER"			"Nome para mostrar no envio"
+
+//MAIN CONFIGs
+//Config name			Show name					Default value				Description
+MainMaintenance			"Em manutenção"				"false"						"Mudar para true para desativar o acesso ao site"
+Main--
+MainServerName			"Nome do Servidor"			"Ferrarezi Server"				"Insira neste campo o nome do seu servidor"
+MainPageTitle			"Título da página"			"Ferrarezi Web Server"		"Insira um título para as páginas do site"
+Main--
+MainTemplate			"Template padrão"			"base"					"Nome da pasta do template a utilizar como padrão"
+MainSiteFolder			"Sub Diretório"				""							"Usar ' site/ ' ou ' site/new/ ' caso necessário"
+Main--
+MainLanguage			"Idioma padrão"				"ptbr"						"Nome da pasta dentro da pasta Language para usar como idioma padrão do site"
+MainTimezone			"Fuso Horário"				"America/Sao_Paulo"			"Verificar fusos disponíveis em http://www.php.net/manual/en/timezones.php"
+MainDateFormat			"Formato de data longa"		"d/m/Y"						"Verificar formatos disponíveis em http://php.net/manual/en/function.date.php"
+MainDateFormatShort		"Formato de data curta"		"d/m"						"Verificar formatos disponíveis em hhttp://php.net/manual/en/function.date.php"
+MainTimeFormat			"Formato de hora"			"H:i"						"Verificar formatos disponíveis em http://br.php.net/manual/pt_BR/function.date.php"
+Main--
+MainSiteDebug			"Depurador do site"			"false"						"Ligar (true) ou Desliga (false) o depurador de erros do site"
+Main--
+MainCreditLog			"LOG de Créditos"			"true"						"Liga (true) ou Desliga (false) a geração de LOGs de adição e remoção de créditos (moedas)"
+MainCreditLogFolder		"Diretório dos LOGs"		"CreditLogs/"				"ATENÇÃO! Para a segurança de seu site, modifique o nome do diretório e coloque um nome difícil caso precise de LOGs"
+Main--
+MainJoinServerIP		"IP do JoinServer"			""							"IP do servidor onde fica o JoinServer, usado para o recurso de desconectar o jogador"
+MainJoinServerPort		"Porta do JoinServer"		"55970"						"Porta do JoinServer, usado para o recurso de desconectar o jogador"
+MainJoinServerMode		"JoinServer X-Team?"		"true"						"Opções: (Ativar = X-Team) (Desativar = WebZen)"
+Main--
+MainCronJobInterval		"Intervalo do CronJob"		"5"							"Intervalo em MINUTOS para executar o CronJob geral"
+Main--
+MainFloodControl		"Anti-flood"				"false"						"Anti flood / Anti DoS / Proteção contra muitos acessos simultaneos"
+MainVisitsFlood			"Máximo de Acessos"			"100"						"Número máximo de acessos no tempo definido abaixo"
+MainTimeFlood			"Tempo de Acessos"			"10"						"Tempo em segundos para monitorar os acessos"
+MainPenaltyFlood		"Tempo de Bloqueio"			"60"						"Tempo de bloqueio de acesso para flooders"
+
+
+//MANAGER CONFIGs
+//Config name			Show name					Default value				Description
+ManagerAccountSaveLevel	"Alterar conta"				"2"							"Nível necessário para alterar dados de contas (senha, email, etc.)"
+ManagerCreditsSaveLevel	"Alterar créditos"			"3"							"Nível necessário para alterar créditos (R) de contas"
+ManagerServerSaveLevel	"Alterar Moedas e VIP"		"3"							"Nível necessário para alterar moedas, tipo de VIP e vencimentos"
+ManagerAccountViewLevel	"Ver dados da conta"		"3"							"Nível necessário para visualizar dados de contas"
+ManagerPasswViewLevel	"Visualizar senha"			"4"							"Nível necessário para visualizar a senha de usuários"
+ManagerNewsLevel		"Gerenciar notícias"		"2"							"Nível necessário para adicionar ou alterar notícias"
+ManagerBlockUserLevel	"Bloquear usuários"			"1"							"Nível necessário para bloquear usuários"
+ManagerHelpDeskLevel	"Atendimento"				"2"							"Nível necessário para acesso ao Atendimento (Help Desk)"
+ManagerDonationLevel	"Financeiro"				"9"							"Nível necessário para acesso ao sistema Financeiro"
+ManagerCreditShopLevel	"Loja de créditos"			"8"							"Nível necessário para acesso a criação e edição de pacotes da Loja de Créditos"
+ManagerManagerLevel		"Administradores"			"9"							"Nível necessário para criar, modificar e excluir acessos de administradores"
+ManagerMailListLevel	"Mail list"					"4"							"Nível necessário para acessar o sistema de Mail List"
+ManagerWebShopLogLevel	"LOGs do WebShop"			"3"							"Nível necessário para visualizar e manusear os LOGs da Loja de Itens (WebShop)"
+ManagerWebServicesLevel	"Ações de WebService"		"3"							"Nível necessário para utilizar ações que precisam de WebService"
+ManagerResellerLevel	"Revendas"					"5"							"Nível necessário para gerenciar revendas"
+ManagerConfigLevel		"Configurações"				"9"							"Nível necessário para visualizar e modificar configurações do site"
+ManagerPollLevel		"Enquetes"					"5"							"Nível necessario para gerenciar enquetes"
+ManagerGuidDBLevel		"Tutoriais"					"3"							"Nível necessário para gerenciar tutoriais"
+ManagerNewEventLevel	"Criar evento"				"2"							"Nível necessário para criar e alterar um evento"
+ManagerDupeFinderLevel	"Dupe Finder"				"9"							"Nível necessário para usar o Dupe Finder"
+ManagerCharEditLevel	"Alterar personagem"		"2"							"Nível necessário para alterar dados de um personagem"
+
+//NEWS
+//Config name			Show name					Default value				Description
+NewsLimitModule			"No. notícias no módulo"	"10"						"Número de notícias a mostrar no módulo {news}"
+NewsModuleMaxChars		"Máx. de caract. modulo"	"99999"						"Número de caracteres mostrados nas notícias do módulo"
+News--
+NewsShownAsText			"No. notícias texto"		"5"							"Número de notícias mostradas completas na página de notícias"
+NewsTextMaxChars		"Máx. de caract."			"300"						"Número de caracteres mostrados por notícia na página de notícias"
+NewsShownAsLink			"No. de links notícias"		"99"						"Número de notícias mostradas em LINK, como 'Notícias anteriores'"
+
+//PAGSEGURO
+//Config name			Show name					Default value				Description
+PagSeguroToken			"Token PagSeguro"			"SEU_TOKEN_AQUI"			"Inserir o Token gerado no site do PagSeguro para utilizar a confirmação automática"
+
+//PAYPAL
+//Config name			Show name					Default value				Description
+PayPalDefautCurrency	"Moeda padrão"				"BRL"						"Inserir o código da moeda padrão no PayPal (ex: BRL, USD, EUR)"
+PayPalExchangeToBRL		"Cambio para Real"			"1"							"Valor do cambio da moeda padrão para Reais"
+PayPalExchangeToUSD		"Cambio para Dólar"			"1"							"Valor do cambio da moeda padrão para Dólares"
+PayPalExchangeToEUR		"Cambio para Euro"			"1"							"Valor do cambio da moeda padrão para Euros"
+
+//SQL
+//Config name			Show name					Default value				Description
+SQLbyPDO				"Ativar PDO"				"auto"						"Utilizar ou não a interface PDO para acesso ao banco de dados (auto recomendado)"
+SQLDriver				"Modo de conexão"			"auto"						"Driver utilizado para conexão (sqlsrv, dblib, mssql, odbc) (auto recomendado)"
+SQL--
+SQLHost					"SQL Host/IP"				"localhost"					"Host ou IP do SQL Server"
+SQLDsnName				"Fonte ODBC"				"MuOnline"					"Nome da fonte de dados ODBC, caso escolhido como driver de conexão"
+SQLDBName				"Nome do banco de dados"	"MuOnline"					"Nome do Banco de Dados que contém os dados do servidor"
+SQLUser					"Usuário do SQL"			"SQLUser"					"Nome de usuário para conexão com o SQL Server"
+SQLPass					"Senha do SQL"				"SQLPassword"				"Senha do usuário para conexão com o SQL Server"
+SQL--
+SQLDebug				"Depurador SQL"				"false"						"Liga (true) ou Desliga (false) o depurador de consultas SQL"
+SQLLog					"LOG do SQL"				"false"						"Liga (true) ou Desliga (false) a geração de LOGs de consultas SQL"
+SQLLogFolder			"Diretório dos LOGs"		"SqlLogs/"					"ATENÇÃO! Para a segurança de seu site, modifique o nome do diretório e coloque um nome difícil caso precise de LOGs"
+SQLConnRetries			"Tentativas de Conexão"		"3"							"Em caso de falha ao conectar ao SQL, quantas vezes o sistema deve retentar"
+SQL--
+SQLMD5Password			"Usar MD5"					"false"						"True apenas se você usa senha com criptografia MD5 no banco de dados (não recomendado)"
+SQLResetsColumn			"Coluna de Reset"			"Resets"					"Coluna da tabela Character que armazena a quantidade de resets do personagem"
+SQLResetDayColumn		"Coluna do Rank Diário"		"ResetsDay"					"Coluna da tabela Character que guarda os resets do dia"
+SQLResetWeekColumn		"Coluna do Rank Semanal"	"ResetsWeek"				"Coluna da tabela Character que guarda os resets da semana"
+SQLResetMonthColumn		"Coluna do Rank Mensal"		"ResetsMonth"				"Coluna da tabela Character que guarda os resets do mês"
+SQLMasterResetColumn	"Coluna dos MR"				"MasterResets"				"Coluna da tabela Character que guardar os Master Resets (padrão MasterResets)"
+SQL--
+SQLLevelMasterTable		"Tabela do MasterLevel"		"MasterSkillTree"			"Nome da tabela que guarda os dados do level Master dos personagens"
+SQLLevelMasterColumn	"Coluna do MasterLevel"		"MasterLevel"				"Nome da coluna que guarda o level Master do personagem"
+SQLNameMasterColumn		"Coluna do Name"			"Name"						"Nome da coluna que guarda o nome do personagem"
+SQLPointMasterColumn	"Coluna dos Pontos"			"MasterPoint"				"Nome da coluna que guarda o nome do personagem"
+SQL--
+SQLVIPColumn			"Coluna do VIP"				"vip"						"Coluna que guarda o (VIP) na tabela MEMB_INFO"
+SQLVIPDateColumn		"Coluna data de vencim."	"modi_days"					"Coluna da tabela MEMB_INFO utilizada para armazenar a data de vencimento do VIP"
+SQL--
+SQLOnlineTimeColumn		"Coluna do Tempo Online"	"OnlineTime"				"Coluna da tabela Character que guarda o tempo online do personagem"
+SQLOnlineTimeDivisor	"Divisor do Tempo Online"	"0"							"Divisor para o tempo online, caso necessário."
+SQLOnlineTimeSufix		"Sufixo para tempo online"	"min"						"Sufixo para mostrar no tempo online (min , h , hora, etc)"
+SQL--
+SQLPkHeroTable			"Tabela do Rank PK-Hero"	"Character"					"Tabela que guarda os dados de PK e Hero"
+SQLPkColumn				"Coluna dos pontos PK"		"Z_RankPK"					"Coluna que guarda os pontos de PK"
+SQLHeroColumn			"Coluna dos pontos Hero"	"Z_RankHR"					"Coluna que guarda os pontos de Hero"
+SQLPkHeroNameColumn		"Coluna do Nome do char"	"Name"						"Coluna que guarda o nome do personagem, em caso do ranking de PK ser controlado por outra tabela a não ser a Character"
+SQL--
+SQLExtWarehouse			"Multiplos Baus"			"false"					"Ativar ou desativar o sistema de multiplos baus, se o seu Mu Server suportar"
+SQLExtWarehouseTable	"Tabela dos Baus"			"WarehouseEx"			"Tabela onde ficam armazenados os baus extra"
+SQLExtWarehouseItems	"Coluna de Itens"			"Items"					"Coluna onde são armazenados os dados de itens"
+SQLExtWarehouseAcc		"Coluna de Account"			"AccountID"				"Coluna que registra o login"
+
+//RANKINGS
+
+//Top Reset
+//Config name			Show name					Default value				Description
+TopResetDayRanking		"Ranking Diário"			"true"						"Liga (true) ou Desliga (false) o ranking de resets diários"
+TopResetWeekRanking		"Ranking Semanal"			"true"						"Liga (true) ou Desliga (false) o ranking de resets semanais"
+TopResetMonthRanking	"Ranking Mensal"			"true"						"Liga (true) ou Desliga (false) o ranking de resets mensais"
+TopReset--
+TopResetShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de resets"
+TopResetShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de resets"
+TopResetShowVip			"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de resets"
+TopResetShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de resets"
+TopResetShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopResetShowOnlineTime	"Mostrar Tempo Online"		"true"						"Mostrar o total de tempo online do personagem no ranking de resets"
+TopReset--
+TopResetResults			"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopResetMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopResetPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//Top Guilds
+//Config name			Show name					Default value				Description
+TopGuildsResetRanking	"Top por Soma de Resets"	"true"						"Ativa (true) ou Desativa (false) o ranking de guilds por soma de resets dos membros"
+TopGuildsScoreRanking	"Top por Guild Score"		"true"						"Ativa (true) ou Desativa (false) o ranking por pontos de batalha (GuildWar)"
+TopGuildsCastleRanking	"Top por vitórias no CS"	"true"						"Ativa (true) ou Desativa (false) o ranking por vitórios no Castle Siege"
+TopGuilds--
+TopGuildsShowMaster 	"Mostrar Guild Master"		"true"						"Mostrar (true) ou não mostrar (false) o Guild Master da guild no ranking"
+TopGuildsShowAssistant	"Mostrar Assistente"		"true"						"Mostrar (true) ou não mostrar (false) o Assistente da guild"
+TopGuildsShowBattleMrs	"Mostrar Mestre de Batalha"	"true"						"Mostrar (true) ou não mostrar (false) o(s) Mestre(s) de Batalha da guild"
+TopGuildsBattleSepar	"Separador para Mestres"	", "						"Caractere para separar a exibição dos Mestres de Batalha (<br /> para nova linha)"
+TopGuildsShowMembers	"Mostrar No. de Membros"	"true"						"Mostrar (true) ou não mostrar (false) o número de membros da Guild"
+TopGuildsShowLogo		"Mostrar emblema"			"true"						"Mostrar (true) ou não mostrar (false) o emblema da Guild (Guild Mark)"
+TopGuildsLogoSize		"Tamanho do emblema"		"25"						"Tamanho do emblema em pixels"
+TopGuilds--
+TopGuildsResults		"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopGuildsMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopGuildsPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//Top Level
+//Config name			Show name					Default value				Description
+TopLevelShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de level"
+TopLevelShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de level"
+TopLevelShowVip			"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de level"
+TopLevelShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de level"
+TopLevelShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopLevelShowOnlineTime	"Mostrar Tempo Online"		"true"						"Mostrar o total de tempo online do personagem no ranking de level"
+TopLevel--
+TopLevelResults			"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopLevelMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopLevelPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//Top Events
+//Config name			Show name					Default value				Description
+TopEventsBCRanking		"Blood Castle"				"true"						"Ativa (true) ou Desativa (false) o ranking do evento Blood Castle"
+TopEventsDSRanking		"Devil Square"				"true"						"Ativa (true) ou Desativa (false) o ranking do evento Devil Square"
+TopEventsCCRanking		"Chaos Castle"				"true"						"Ativa (true) ou Desativa (false) o ranking do evento Chaos Castle"
+TopEventsITRanking		"Illusion Temple"			"true"						"Ativa (true) ou Desativa (false) o ranking do evento Illusion Temple"
+TopEvents--
+TopEventsShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de eventos"
+TopEventsShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de eventos"
+TopEventsShowVip		"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de eventos"
+TopEventsShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de eventos"
+TopEventsShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopEventsShowOnlineTime	"Mostrar Tempo Online"		"true"						"Mostrar o total de tempo online do personagem no ranking de eventos"
+TopEvents--
+TopEventsResults		"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopEventsMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopEventsPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+TopEvents--
+TopEventsBCDataBase		"DB do Blood Castle"		"MuOnline"					"Nome do banco de dados que guarda o ranking de Blood Castle"
+TopEventsBCTable		"Tabela do Blood Castle"	"RankingBloodCastle"		"Nome da tabela que guarda o ranking de Blood Castle"
+TopEventsBCScoreCol		"Coluna de pontos"			"Score"						"Nome da coluna que guarda os pontos para o ranking de Blood Castle"
+TopEventsBCNameCol		"Coluna de personagem"		"Name"						"Nome da coluna que guarda os pontos para o ranking de Blood Castle"
+TopEventsBCScoreSum		"Somar pontos?"				"false"						"Definir se os pontos devem ser somados ou ordenados (ativar = somar | desativar = ordenar)"
+TopEvents--
+TopEventsDSDataBase		"DB do Devil Square"		"MuOnline"					"Nome do banco de dados que guarda o ranking de Devil Square"
+TopEventsDSTable		"Tabela do Devil Square"	"RankingDevilSquare"		"Nome da tabela que guarda o ranking de Devil Square"
+TopEventsDSScoreCol		"Coluna de pontos"			"Score"						"Nome da coluna que guarda os pontos para o ranking de Devil Square"
+TopEventsDSNameCol		"Coluna de personagem"		"Name"						"Nome da coluna que guarda os pontos para o ranking de Devil Square"
+TopEventsDSScoreSum		"Somar pontos?"				"false"						"Definir se os pontos devem ser somados ou ordenados (ativar = somar | desativar = ordenar)"
+TopEvents--
+TopEventsCCDataBase		"DB do Chaos Castle"		"MuOnline"					"Nome do banco de dados que guarda o ranking de Chaos Castle"
+TopEventsCCTable		"Tabela do Chaos Castle"	"RankingChaosCastle"		"Nome da tabela que guarda o ranking de Chaos Castle"
+TopEventsCCScoreCol		"Coluna de pontos"			"Score"						"Nome da coluna que guarda os pontos para o ranking de Chaos Castle"
+TopEventsCCNameCol		"Coluna de personagem"		"Name"						"Nome da coluna que guarda os pontos para o ranking de Chaos Castle"
+TopEventsCCScoreSum		"Somar pontos?"				"false"						"Definir se os pontos devem ser somados ou ordenados (ativar = somar | desativar = ordenar)"
+TopEvents--
+TopEventsITDataBase		"DB do Illusion Temple"		"MuOnline"					"Nome do banco de dados que guarda o ranking de Illusion Temple"
+TopEventsITTable		"Tabela do Illusion Temple"	"RankingIllusionTemple"		"Nome da tabela que guarda o ranking de Illusion Temple"
+TopEventsITScoreCol		"Coluna de pontos"			"Score"						"Nome da coluna que guarda os pontos para o ranking de Illusion Temple"
+TopEventsITNameCol		"Coluna de personagem"		"Name"						"Nome da coluna que guarda os pontos para o ranking de Illusion Temple"
+TopEventsITScoreSum		"Somar pontos?"				"false"						"Definir se os pontos devem ser somados ou ordenados (ativar = somar | desativar = ordenar)"
+
+
+//Top Gens
+//Config name			Show name					Default value				Description
+TopGensShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de Gens"
+TopGensShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de Gens"
+TopGensShowVip			"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de Gens"
+TopGensShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de Gens"
+TopGensShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopGens--
+TopGensResults			"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopGensMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopGensPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+TopGensTable			"Tabela de Gens"			"Gens_Rank"					"Nome da tabela que guarda o ranking de Gens"
+TopGensContribution		"Coluna de Contribuição"	"Contribution"				"Nome da coluna que guarda os pontos de contribuição"
+TopGensFamily			"Coluna de Família"			"Family"					"Nome da coluna que guarda a família Gen do personagem"
+TopGensCharName			"Coluna de Nome do Char"	"Name"						"Nome da coluna que guarda o nome do personagem"
+
+//Top Duel
+//Config name			Show name					Default value				Description
+TopDuelShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de Duel"
+TopDuelShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de Duel"
+TopDuelShowVip			"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de Duel"
+TopDuelShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de Duel"
+TopDuelShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopDuel--
+TopDuelResults			"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopDuelMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopDuelPagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//Top PK/Hero
+//Config name			Show name					Default value				Description
+TopPKShowGuild			"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de PK/Hero"
+TopPKShowStatus			"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de PK/Hero"
+TopPKShowVip			"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de PK/Hero"
+TopPKShowClass			"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de PK/Hero"
+TopPKShowClassMode		"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopPKShowOnlineTime		"Mostrar Tempo Online"		"true"						"Mostrar o total de tempo online do personagem no ranking de PK/Hero"
+TopPK--
+TopPKResults			"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopPKMaxResults			"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopPKPagination			"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//Top Online Time
+//Config name			Show name					Default value				Description
+TopOnlineShowGuild		"Mostrar Guild"				"true"						"Mostrar a guild do personagem no ranking de tempo online"
+TopOnlineShowStatus		"Mostrar Status"			"true"						"Mostrar o status (ON/OFF) do personagem no ranking de tempo online"
+TopOnlineShowVip		"Mostrar VIP"				"true"						"Mostrar o (VIP) do personagem no ranking de tempo online"
+TopOnlineShowClass		"Mostrar Classe"			"true"						"Mostrar a Classe do personagem no ranking de tempo online"
+TopOnlineShowClassMode	"Modo de Classe"			"tiny"						"Como mostrar o nome da classe, completo (full) ou sigla(tiny)"
+TopOnline--
+TopOnlineResults		"Resultados disponíveis"	"10,25,50,100,500,1000,*"	"Número de resultados que os usuários podem escolher (* = all)"
+TopOnlineMaxResults		"Máximo de resultados"		"0"							"Número máximo de resultados a exibir (proteção). Quanto menor o número, menor a carga no SQL Server. (0 = infinito)"
+TopOnlinePagination		"Paginação de resultados"	"false"						"Ativa (true) ou Desativa (false) a paginação no Ranking (ainda não implementado)"
+
+//USERS
+//Config name			Show name					Default value				Description
+UsersImage				"Imagem de perfil"			"false"						"Permitir que o usuário poste uma imagem para o seu perfil."
+UsersImageBlock			"Bloquear imagem"			"true"						"Bloquear a imagem postada até a verificação e liberação"
+UsersImageWidth			"Largura máxima em px"		"150"						"Largura máxima em pixels para a imagem"
+UsersImageHeight		"Altura máxima em px"		"150"						"Altura máxima em pixels para a imagem"
+UsersImageMinAL			"VIP mínimo"				"0"							"(VIP) mínimo para mostrar a imagem de perfil"
+Users--
+UsersBlockMessage		"Aviso ao bloquear"			"true"						"Notificar o usuário via AVISO do site quando ele for bloqueado."
+UsersUnBlockMessage		"E-mail ao bloquear"		"true"						"Notificar o usuário via E-MAIL quando ele for bloqueado."
+UsersForceLower			"Forçar minúsculas"			"true"						"Sempre transformar letras do login do usuário em minúsculas (altamente recomendado!).
+
+//USER TOOLS
+//Config name					Show name					Default value				Description
+UserToolsRequiresSNO				"Validar SNO"				"true"						"Solicitar a Chave de Segurança (SNO) do usuário nas ferramentas"
+UserTools--
+UserToolsRebuildStats			"Rebuild de Stats"			"true"						"Ativa (true) ou Desativa (false) o Rebuild de Stats para os usuários"
+UserToolsRebuildStatsMinAL		"VIP mínimo"				"0"							"(VIP) mínimo para usar o Rebuild de Stats"
+UserToolsRebuildStatsCurrency	"Moeda para taxa"			"-1"						"Moeda para cobrança de taxa de Rebuild de Stats (ID da moeda, ou -1 para não cobrar)"
+UserToolsRebuildStatsAmountAL0	"Taxa para VIP 0"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 0"
+UserToolsRebuildStatsAmountAL1	"Taxa para VIP 1"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 1"
+UserToolsRebuildStatsAmountAL2	"Taxa para VIP 2"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 2"
+UserToolsRebuildStatsAmountAL3	"Taxa para VIP 3"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 3"
+UserTools--
+UserToolsRebuildTree			"Rebuild de SkillTree"		"true"						"Ativa (true) ou Desativa (false) o Rebuild de SkillTree para os usuários"
+UserToolsRebuildTreePointsPerLevel "MasterPoints por Level"	"1"							"Quantos pontos na Skill Tree o usuário ganha por cada Level Master"
+UserToolsRebuildTreeMinAL		"VIP mínimo"				"0"							"(VIP) mínimo para usar o Rebuild de Stats"
+UserToolsRebuildTreeCurrency	"Moeda para taxa"			"-1"						"Moeda para cobrança de taxa de Rebuild de Stats (ID da moeda, ou -1 para não cobrar)"
+UserToolsRebuildTreeAmountAL0	"Taxa para VIP 0"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 0"
+UserToolsRebuildTreeAmountAL1	"Taxa para VIP 1"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 1"
+UserToolsRebuildTreeAmountAL2	"Taxa para VIP 2"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 2"
+UserToolsRebuildTreeAmountAL3	"Taxa para VIP 3"			"0"							"Taxa de cobrança para Rebuild de Stats de contas com VIP 3"
+UserTools--
+UserToolsMasterReset			"Master Reset"				"true"						"Ativa (true) ou Desativa (false) o Master Reset"
+UserToolsMasterResetMinAL		"VIP mínimo"				"1"							"(VIP) mínimo para fazer um Master Reset"
+UserToolsMasterResetMinRRAL0	"Mínimo de resets VIP 0"	"1000"						"Número mínimo de resets necessários para VIP 0 fazer um Master Reset"
+UserToolsMasterResetMinRRAL1	"Mínimo de resets VIP 1"	"1000"						"Número mínimo de resets necessários para VIP 1 fazer um Master Reset"
+UserToolsMasterResetMinRRAL2	"Mínimo de resets VIP 2"	"1000"						"Número mínimo de resets necessários para VIP 2 fazer um Master Reset"
+UserToolsMasterResetMinRRAL3	"Mínimo de resets VIP 3"	"1000"						"Número mínimo de resets necessários para VIP 3 fazer um Master Reset"
+UserToolsMasterResetOnlyFull	"Apenas com full stats"		"false"						"Exigir que o personagem esteja com stats full (65000) para o Master Reset"
+UserToolsMasterResetOnlyAll		"Apenas todos os resets"	"true"						"Master Reset limpa todos os resets (Ativar) ou o usuário pode escolher o mínimo (Desativar)"
+UserToolsMasterResetCurrency	"Moeda para bonus do MR"	"1"							"Moeda dada como bonus após o Master Reset (ID da moeda | 0 = Créditos (Reais))"
+UserToolsMasterResetAmountAL0	"Valor fixo de bonus"		"100"						"Valor da bonificação do Master Reset para VIP 0"
+UserToolsMasterResetAmountAL1	"Valor fixo de bonus"		"100"						"Valor da bonificação do Master Reset para VIP 1"
+UserToolsMasterResetAmountAL2	"Valor fixo de bonus"		"100"						"Valor da bonificação do Master Reset para VIP 2"
+UserToolsMasterResetAmountAL3	"Valor fixo de bonus"		"100"						"Valor da bonificação do Master Reset para VIP 3"
+UserToolsMasterResetAmountRRAL0	"Valor por reset"			"0"							"Valor dado por cada reset para VIP 0 no ato do Master Reset (x * ResetCount)"
+UserToolsMasterResetAmountRRAL1	"Valor por reset"			"0"							"Valor dado por cada reset para VIP 1 no ato do Master Reset (x * ResetCount)"
+UserToolsMasterResetAmountRRAL2	"Valor por reset"			"0"							"Valor dado por cada reset para VIP 2 no ato do Master Reset (x * ResetCount)"
+UserToolsMasterResetAmountRRAL3	"Valor por reset"			"0"							"Valor dado por cada reset para VIP 3 no ato do Master Reset (x * ResetCount)"
+UserToolsMasterResetResetClass	"Resetar classe"			"true"						"Resetar a classe e quests do personagem no Master Reset"
+UserToolsMasterResetResetSkills	"Resetar skills"			"true"						"Resetar os skills e skill tree do personagem no Master Reset"
+UserToolsMasterResetResetZen	"Resetar Zen"				"true"						"Zerar o Zen do personagem no Master Reset"
+UserTools--
+UserToolsRename					"Renomear Persoangem"		"true"						"Ativa (true) ou Desativa (false) o recurso de Renomear Personagem"
+UserToolsRenameFilter			"Palavras proibidas"		"gm,adm"					"Palavras ou caracteres proibidos, separados por vírgula."
+UserToolsRenameWhiteList		"Caracteres permitidos"		"-,_"						"Palavras ou caracteres permitidos, além de letras e números"
+UserToolsRenameCurrency			"Moeda para taxa"			"-1"						"Moeda para cobrança de taxa de Renomear Personagem (ID da moeda, ou -1 para não cobrar)"
+UserToolsRenameAmount			"Taxa de renomeio"			"0"							"Taxa de cobrança para renomear um personagem"
+UserToolsRenameMinimumAL		"VIP mínimo"				"1"							"(VIP) mínimo para poder renomear um personagem"
+UserTools--
+UserToolsResetTransfer			"Transferência de Resets"	"false"						"Ativa ou Desativa a transferência de resets"
+UserToolsResetTransferMinAL		"VIP mínimo"				"1"							"(VIP) mínimo para fazer transferência de resets"
+UserToolsResetTransferMinRR		"Número mínimo de resets"	"100"						"Número mínimo de resets para transferir"
+UserToolsResetTransferFull		"Todos os resets"			"false"						"Permitir apenas a transferência de TODOS os resets. Recomendado para servidor acumulativo."
+UserToolsResetTransferStatsToo	"Transferir stats"			"false"						"Transferir junto os pontos e level do personagem de origem para o personagem de destino (Ativar = transferir | Desativar = zerar pontos).  Recomendado Ativar para servidor acumulativo."
+UserToolsResetTransferKeepStats	"Não zerar stats"			"false"						"Manter os pontos do personagem de origem (Ativar = manter | Desativar = zerar pontos). Recomendado Desativar para servidor acumulativo."
+UserToolsResetTransferCurrency	"Moeda para taxa"			"-1"						"Moeda cobrada pela transferência de resets (ID da moeda, ou -1 para não cobrar)"
+UserToolsResetTransferAmountAL0	"Taxa fixa para VIP 0"		"0"							"Valor cobrado por cada transferência para VIP 0"
+UserToolsResetTransferAmountAL1	"Taxa fixa para VIP 1"		"0"							"Valor cobrado por cada transferência para VIP 1"
+UserToolsResetTransferAmountAL2	"Taxa fixa para VIP 2"		"0"							"Valor cobrado por cada transferência para VIP 2"
+UserToolsResetTransferAmountAL3	"Taxa fixa para VIP 3"		"0"							"Valor cobrado por cada transferência para VIP 3"
+UserToolsResetTransferAmPerRRA0	"Taxa por reset para VIP 0"	"0"							"Valor cobrado por cada reset transferido para VIP 0"
+UserToolsResetTransferAmPerRRA1	"Taxa por reset para VIP 1"	"0"							"Valor cobrado por cada reset transferido para VIP 1"
+UserToolsResetTransferAmPerRRA2	"Taxa por reset para VIP 2"	"0"							"Valor cobrado por cada reset transferido para VIP 2"
+UserToolsResetTransferAmPerRRA3	"Taxa por reset para VIP 3"	"0"							"Valor cobrado por cada reset transferido para VIP 3"
+UserTools--
+UserToolsChangeClass			"Mudança de Classe"			"false"						"Ativa ou Desativa a mudança de classe"
+UserToolsChangeClassMinAL		"VIP mínimo"				"1"							"VIP mínimo para fazer a mudança de classe"
+UserToolsChangeClassCurrency	"Moeda para taxa"			"-1"						"Moeda cobrada pela transferência de resets (ID da moeda, ou -1 para não cobrar)"
+UserToolsChangeClassAmountAL0	"Taxa fixa para VIP 0"		"0"							"Valor cobrado por cada transferência para VIP 0"
+UserToolsChangeClassAmountAL1	"Taxa fixa para VIP 1"		"0"							"Valor cobrado por cada transferência para VIP 1"
+UserToolsChangeClassAmountAL2	"Taxa fixa para VIP 2"		"0"							"Valor cobrado por cada transferência para VIP 2"
+UserToolsChangeClassAmountAL3	"Taxa fixa para VIP 3"		"0"							"Valor cobrado por cada transferência para VIP 3"
+UserToolsChangeClassCheckGuild	"Verificar Guild"			"false"						"Ativar para não permitir mudança de classe estando em Guild. Desativar ignora a Guild."
+UserToolsChangeClassCheckItems	"Verificar Inventário"		"true"						"Ativar para não permitir mudança de classe com itens equipados. Desativar ignora o inventário, e pode causar a perda de itens."
+UserToolsChangeClass0			"Mudar para DW/SM/GM"		"true"						"Ativar ou desativar troca de classe para Wizard"
+UserToolsChangeClass16			"Mudar para DK/BK/BM"		"true"						"Ativar ou desativar troca de classe para Knight"
+UserToolsChangeClass32			"Mudar para Elf/ME/HE"		"true"						"Ativar ou desativar troca de classe para Elf"
+UserToolsChangeClass48			"Mudar para MG/DM"			"true"						"Ativar ou desativar troca de classe para Gladiator"
+UserToolsChangeClass64			"Mudar para DL/LE"			"true"						"Ativar ou desativar troca de classe para Lord"
+UserToolsChangeClass80			"Mudar para Sum/BM/DM"		"true"						"Ativar ou desativar troca de classe para Summoner"
+UserToolsChangeClass96			"Mudar para RF/FM"			"true"						"Ativar ou desativar troca de classe para Fighter"
+UserToolsChangeClassMode		"Modo Class+3"				"true"						"Ativar para eMUlador Ferrarezi ou outros que usem 3a Classe somando 3"
+
+//VIP SYSTEM
+//Config name			Show name					Default value				Description
+VIP_0_Name				"Nome do VIP 0"				"Free"						"Nome do plano quando a conta tem VIP = 0"
+VIP_1_Name				"Nome do VIP 1"				"Vip 1"						"Nome do plano quando a conta tem VIP = 1"
+VIP_2_Name				"Nome do VIP 2"				"Vip 2"						"Nome do plano quando a conta tem VIP = 2"
+VIP_3_Name				"Nome do VIP 3"				"Vip 3"						"Nome do plano quando a conta tem VIP = 3"
+VIP_--
+VIP_Item				"Plano VIP ITEM"			"false"						"Ativa ou desativa o plano VIP para itens ilimitados (recomendado apenas em servidores Ferrarezi)"
+VIP_Item_Name			"Nome do VIP ITEM"			"ItemVIP"					"Nome do plano VIP que permite o jogador comprar itens ilimitados"
+VIP_Item_CronLog		"LOG de rotinas"			"false"						"Ativa ou desativa a gravação de LOGs da rotina de exclusão de VIP_Items"
+
+//WEB SHOP
+//Config name			Show name					Default value				Description
+WebShopBlockCheck		"Verificar bloqueio"		"true"						"Verificar se o usuário está bloqueado para acessar o WebShop"
+WebShopSnoCheck			"Verificar SNO"				"true"						"Solicitar a Chave de Segurança (SNO) do usuário no WebShop"
+WebShop--
+WebShopLevel1PriceSum 	"Valor de soma para +1"		"5"							"Valor a ser somado no preço base para item +1"
+WebShopLevel1PriceMult	"Valor de multip. para +1"	"0"							"Valor a ser multiplicado no preço base para item +1"
+WebShopLevel2PriceSum 	"Valor de soma para +2"		"10"						"Valor a ser somado no preço base para item +2"
+WebShopLevel2PriceMult	"Valor de multip. para +2"	"0"							"Valor a ser multiplicado no preço base para item +2"
+WebShopLevel3PriceSum 	"Valor de soma para +3"		"15"						"Valor a ser somado no preço base para item +3"
+WebShopLevel3PriceMult	"Valor de multip. para +3"	"0"							"Valor a ser multiplicado no preço base para item +3"
+WebShopLevel4PriceSum 	"Valor de soma para +4"		"20"						"Valor a ser somado no preço base para item +4"
+WebShopLevel4PriceMult	"Valor de multip. para +4"	"0"							"Valor a ser multiplicado no preço base para item +4"
+WebShopLevel5PriceSum 	"Valor de soma para +5"		"25"						"Valor a ser somado no preço base para item +5"
+WebShopLevel5PriceMult	"Valor de multip. para +5"	"0"							"Valor a ser multiplicado no preço base para item +5"
+WebShopLevel6PriceSum 	"Valor de soma para +6"		"30"						"Valor a ser somado no preço base para item +6"
+WebShopLevel6PriceMult	"Valor de multip. para +6"	"0"							"Valor a ser multiplicado no preço base para item +6"
+WebShopLevel7PriceSum 	"Valor de soma para +7"		"35"						"Valor a ser somado no preço base para item +7"
+WebShopLevel7PriceMult	"Valor de multip. para +7"	"0"							"Valor a ser multiplicado no preço base para item +7"
+WebShopLevel8PriceSum 	"Valor de soma para +8"		"40"						"Valor a ser somado no preço base para item +8"
+WebShopLevel8PriceMult	"Valor de multip. para +8"	"0"							"Valor a ser multiplicado no preço base para item +8"
+WebShopLevel9PriceSum 	"Valor de soma para +9"		"45"						"Valor a ser somado no preço base para item +9"
+WebShopLevel9PriceMult	"Valor de multip. para +9"	"0"							"Valor a ser multiplicado no preço base para item +9"
+WebShopLevel10PriceSum 	"Valor de soma para +10"	"60"						"Valor a ser somado no preço base para item +10"
+WebShopLevel10PriceMult	"Valor de multip. para +10"	"0"							"Valor a ser multiplicado no preço base para item +10"
+WebShopLevel11PriceSum 	"Valor de soma para +11"	"75"						"Valor a ser somado no preço base para item +11"
+WebShopLevel11PriceMult	"Valor de multip. para +11"	"0"							"Valor a ser multiplicado no preço base para item +11"
+WebShopLevel12PriceSum 	"Valor de soma para +12"	"90"						"Valor a ser somado no preço base para item +12"
+WebShopLevel12PriceMult	"Valor de multip. para +12"	"0"							"Valor a ser multiplicado no preço base para item +12"
+WebShopLevel13PriceSum 	"Valor de soma para +13"	"110"						"Valor a ser somado no preço base para item +13"
+WebShopLevel13PriceMult	"Valor de multip. para +13"	"0"							"Valor a ser multiplicado no preço base para item +13"
+WebShopLevel14PriceSum 	"Valor de soma para +14"	"130"						"Valor a ser somado no preço base para item +14"
+WebShopLevel14PriceMult	"Valor de multip. para +14"	"0"							"Valor a ser multiplicado no preço base para item +14"
+WebShopLevel15PriceSum 	"Valor de soma para +15"	"150"						"Valor a ser somado no preço base para item +15"
+WebShopLevel15PriceMult	"Valor de multip. para +15"	"0"							"Valor a ser multiplicado no preço base para item +15"
+WebShop--
+WebShopAdd1PriceSum		"Valor de soma para Add+4"	"2"							"Valor a ser somado no preço base para item com Add Option +4"
+WebShopAdd1PriceMult	"Valor multip. para Add+4"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +4"
+WebShopAdd2PriceSum		"Valor de soma para Add+8"	"4"							"Valor a ser somado no preço base para item com Add Option +8"
+WebShopAdd2PriceMult	"Valor multip. para Add+8"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +8"
+WebShopAdd3PriceSum		"Valor de soma para Add+12"	"6"							"Valor a ser somado no preço base para item com Add Option +12"
+WebShopAdd3PriceMult	"Valor multip. para Add+12"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +12"
+WebShopAdd4PriceSum		"Valor de soma para Add+16"	"8"							"Valor a ser somado no preço base para item com Add Option +16"
+WebShopAdd4PriceMult	"Valor multip. para Add+16"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +16"
+WebShopAdd5PriceSum		"Valor de soma para Add+20"	"10"						"Valor a ser somado no preço base para item com Add Option +20"
+WebShopAdd5PriceMult	"Valor multip. para Add+20"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +20"
+WebShopAdd6PriceSum		"Valor de soma para Add+24"	"15"						"Valor a ser somado no preço base para item com Add Option +24"
+WebShopAdd6PriceMult	"Valor multip. para Add+24"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +24"
+WebShopAdd7PriceSum		"Valor de soma para Add+28"	"20"						"Valor a ser somado no preço base para item com Add Option +28"
+WebShopAdd7PriceMult	"Valor multip. para Add+28"	"0"							"Valor a ser multiplicado no preço base para item com Add Option +28"
+WebShop--
+WebShopLuckPriceSum		"Valor de soma para Luck"	"20"						"Valor a ser somado no preço base para item com Luck"
+WebShopLuckPriceMult	"Valor multip. para Luck"	"0"							"Valor a ser multiplicado no preço base para item com Luck"
+WebShop--
+WebShopSkillPriceSum	"Valor de soma para Skill"	"0"							"Valor a ser somado no preço base para item com Skill"
+WebShopSkillPriceMult	"Valor multip. para Skill"	"0.1"						"Valor a ser multiplicado no preço base para item com Skill"
+WebShop--
+WebShopExcOptPriceSum	"Valor de soma para Excell"	"50"						"Valor a ser somado no preço base para cada Excellent Option adicionado ao item"
+WebShopExcOptPriceMult	"Valor multip. para Excell"	"0"							"Valor a ser multiplicado no preço base para cada Excellent Option adicionado ao item"
+WebShop--
+WebShopAncient1PriceSum	"Valor soma para Ancient 1"	"150"						"Valor a ser somado no preço base para itens ancient do tipo 1 (5)"
+WebShopAncient1PriceMult "Valor multip. para Ancient 1" "0"						"Valor a ser multiplicado no preço base para itens ancient do tipo 1 (5)"
+WebShopAncient2PriceSum	"Valor some para Ancient 2"	"200"						"Valor a ser somado no preço base para itens ancient do tipo 2 (10)"
+WebShopAncient2PriceMult "Valor multip. para Ancient 2"	"0"						"Valor a ser multiplicado no preço base para itens ancient do tipo 2 (10)"
+WebShop--
+WebShop380OptPriceSum	"Valor soma Option 380"		"100"						"Valor a ser somado no preço base para itens com option 380"
+WebShop380OptPriceMult	"Valor multip. Option 380"	"0"							"Valor a ser multiplicado no preço base para itens com option 380"
+WebShop--
+WebShopHarmonyPriceSum	"Valor soma para Harmony"	"100"						"Valor a ser somado no preço base para item com Harmony"
+WebShopHarmonyPriceMult	"Valor multip. Harmony"		"0"							"Valor a ser multiplicado no preço base para item com Harmony"
+WebShop--
+WebShopHarmony0PriceSum	"Valor soma Harmony Lvl 0"	"15"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 0"
+WebShopHarmony0PriceMult "Valor mult. Harmony Lvl 0" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 0"
+WebShopHarmony1PriceSum	"Valor soma Harmony Lvl 1"	"20"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 1"
+WebShopHarmony1PriceMult "Valor mult. Harmont Lvl 1" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 1"
+WebShopHarmony2PriceSum	"Valor soma Harmony Lvl 2"	"30"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 2"
+WebShopHarmony2PriceMult "Valor mult. Harmont Lvl 2" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 2"
+WebShopHarmony3PriceSum	"Valor soma Harmony Lvl 3"	"40"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 3"
+WebShopHarmony3PriceMult "Valor mult. Harmont Lvl 3" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 3"
+WebShopHarmony4PriceSum	"Valor soma Harmony Lvl 4"	"50"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 4"
+WebShopHarmony4PriceMult "Valor mult. Harmont Lvl 4" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 4"
+WebShopHarmony5PriceSum	"Valor soma Harmony Lvl 5"	"60"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 5"
+WebShopHarmony5PriceMult "Valor mult. Harmont Lvl 5" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 5"
+WebShopHarmony6PriceSum	"Valor soma Harmony Lvl 6"	"80"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 6"
+WebShopHarmony6PriceMult "Valor mult. Harmont Lvl 6" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 6"
+WebShopHarmony7PriceSum	"Valor soma Harmony Lvl 7"	"100"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 7"
+WebShopHarmony7PriceMult "Valor mult. Harmont Lvl 7" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 7"
+WebShopHarmony8PriceSum	"Valor soma Harmony Lvl 8"	"120"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 8"
+WebShopHarmony8PriceMult "Valor mult. Harmont Lvl 8" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 8"
+WebShopHarmony9PriceSum	"Valor soma Harmony Lvl 9"	"150"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 9"
+WebShopHarmony9PriceMult "Valor mult. Harmont Lvl 9" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 9"
+WebShopHarmony10PriceSum "Valor soma Harmony Lvl 10" "175"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 10"
+WebShopHarmony10PriceMult "Valor mult. Harmont Lvl 10" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 10"
+WebShopHarmony11PriceSum "Valor soma Harmony Lvl 11" "200"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 11"
+WebShopHarmony11PriceMult "Valor mult. Harmont Lvl 11" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 11"
+WebShopHarmony12PriceSum "Valor soma Harmony Lvl 12" "250"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 12"
+WebShopHarmony12PriceMult "Valor mult. Harmont Lvl 12" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 12"
+WebShopHarmony13PriceSum "Valor soma Harmony Lvl 13" "300"						"Valor a ser somado no preço base para item com Option de Harmony Lvl 13"
+WebShopHarmony13PriceMult "Valor mult. Harmont Lvl 13" "0"						"Valor a ser multiplicado no preço base para item com Option de Harmony Lvl 13"
+WebShop--
+WebShop--
+//Config name					Show name							Default 	Description
+WebShopSocketLevelPriceSum		"Valor soma Level Socket"			"20"		"Valor a ser somado no preço base para cada option de Socket adicionado"
+WebShopSocketLevelPriceMult		"Valor mult. Level Socket"			"0"			"Valor a ser multiplicado no preço base para cada option de Socket adicionado"
+WebShop--
+WebShopSocketEmptyPriceSum		"Valor soma Socket Vazio"			"50"		"Valor a ser somado no preço base para cada slot de Socket vazio adicionado"
+WebShopSocketEmptyPriceMult		"Valor mult. Socket Vazio"			"0"			"Valor a ser multiplicado no preço base para cada slot de Socket vazio adicionado"
+WebShop--
+WebShopSocketOption0PriceSum	"Valor soma Add Damage By Level"	"199"		"Valor a ser somado no preço base para o Socket option Add Damage By Level"
+WebShopSocketOption0PriceMult	"Valor mult. Add Damage By Level"	"0"			"Valor a ser multiplicado no preço base para o Socket option Add Damage By Level"
+WebShop--
+WebShopSocketOption1PriceSum	"Valor soma Add Speed"				"299"		"Valor a ser somado no preço base para o Socket option Add Speed"
+WebShopSocketOption1PriceMult	"Valor mult. Add Speed"				"0"			"Valor a ser multiplicado no preço base para o Socket option Add Speed"
+WebShop--
+WebShopSocketOption2PriceSum	"Valor soma Add Min Damage"			"199"		"Valor a ser somado no preço base para o Socket Add Min Damage"
+WebShopSocketOption2PriceMult	"Valor mult. Add Min Damage"		"0"			"Valor a ser multiplicado no preço base para o Socket Add Min Damage"
+WebShop--
+WebShopSocketOption3PriceSum	"Valor soma Add Max Damage"			"99"		"Valor a ser somado no preço base para o Socket Add Max Damage"
+WebShopSocketOption3PriceMult	"Valor mult. Add Max Damage"		"0"			"Valor a ser multiplicado no preço base para o Socket Add Max Damage"
+WebShop--
+WebShopSocketOption4PriceSum	"Valor soma Add Damage"				"299"		"Valor a ser somado no preço base para o Socket Add Damage"
+WebShopSocketOption4PriceMult	"Valor mult. Add Damage"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Damage"
+WebShop--
+WebShopSocketOption5PriceSum	"Valor soma Sub BP Consump. Rate"	"99"		"Valor a ser somado no preço base para o Socket Sub BP Consumption Rate"
+WebShopSocketOption5PriceMult	"Valor mult. Sub BP Consump. Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Sub BP Consumption Rate"
+WebShop--
+WebShop--
+WebShopSocketOption10PriceSum	"Valor soma Mul Def. Success Rate"	"299"		"Valor a ser somado no preço base para o Socket Mul Defense Success Rate"
+WebShopSocketOption10PriceMult	"Valor mult. Mul Def. Success Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Mul Defense Success Rate"
+WebShop--
+WebShopSocketOption11PriceSum	"Valor soma Add Defense"			"199"		"Valor a ser somado no preço base para o Socket Add Defense"
+WebShopSocketOption11PriceMult	"Valor mult. Add Defense"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Defense"
+WebShop--
+WebShopSocketOption12PriceSum	"Valor soma Add Shield Dmg Reduct."	"299"		"Valor a ser somado no preço base para o Socket Add Shield Damage Reduction"
+WebShopSocketOption12PriceMult	"Valor mult. Add Shield Dmg Reduc."	"0"			"Valor a ser multiplicado no preço base para o Socket Add Shield Damage Reduction"
+WebShop--
+WebShopSocketOption13PriceSum	"Valor soma Add Damage Reduction"	"299"		"Valor a ser somado no preço base para o Socket Add Damage Reduction"
+WebShopSocketOption13PriceMult	"Valor mult. Add Damage Reduction"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Damage Reduction"
+WebShop--
+WebShopSocketOption14PriceSum	"Valor soma Add Damage Reflect"		"299"		"Valor a ser somado no preço base para o Socket Add Damage Reflect"
+WebShopSocketOption14PriceMult	"Valor mult. Add Damage Reflect"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Damage Reflect"
+WebShop--
+WebShopSocketOption16PriceSum	"Valor soma Add Hunt HP"			"99"		"Valor a ser somado no preço base para o Socket Add Hunt HP"
+WebShopSocketOption16PriceMult	"Valor mult. Add Hunt HP"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Hunt HP"
+WebShop--
+WebShopSocketOption17PriceSum	"Valor soma Add Hunt MP"			"99"		"Valor a ser somado no preço base para o Socket Add Hunt MP"
+WebShopSocketOption17PriceMult	"Valor mult. Add Hunt MP"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Hunt MP"
+WebShop--
+WebShopSocketOption18PriceSum	"Valor soma Add Magic Damage"		"199"		"Valor a ser somado no preço base para o Socket Add Magic Damage"
+WebShopSocketOption18PriceMult	"Valor mult. Add Magic Damage"		"0"			"Valor a ser multiplicado no preço base para o Socket Add Magic Damage"
+WebShop--
+WebShopSocketOption19PriceSum	"Valor soma Mul Attk Success Rate"	"199"		"Valor a ser somado no preço base para o Socket Mul Attack Success Rate"
+WebShopSocketOption19PriceMult	"Valor mult. Mul Attk Success Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Mul Attack Success Rate"
+WebShop--
+WebShopSocketOption20PriceSum	"Valor soma Add Item Durabil. Rate"	"99"		"Valor a ser somado no preço base para o Socket Add Item Durability Rate"
+WebShopSocketOption20PriceMult	"Valor mult. Add Item Durab. Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Item Durability Rate"
+WebShop--
+WebShop--
+WebShopSocketOption21PriceSum	"Valor soma Add HP Recovery Rate"	"199"		"Valor a ser somado no preço base para o Socket Add HP Recovery Rate"
+WebShopSocketOption21PriceMult	"Valor mult. Add HP Recovery Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Add HP Recovery Rate"
+WebShop--
+WebShopSocketOption22PriceSum	"Valor soma Mul Max HP"				"299"		"Valor a ser somado no preço base para o Socket Mul Max HP"
+WebShopSocketOption22PriceMult	"Valor mult. Mul Max HP"			"0"			"Valor a ser multiplicado no preço base para o Socket Mul Max HP"
+WebShop--
+WebShopSocketOption23PriceSum	"Valor soma Mul Max MP"				"99"		"Valor a ser somado no preço base para o Socket Mul Max MP"
+WebShopSocketOption23PriceMult	"Valor mult. Mul Max MP"			"0"			"Valor a ser multiplicado no preço base para o Socket Mul Max MP"
+WebShop--
+WebShopSocketOption24PriceSum	"Valor soma Add MP Recovery Rate"	"99"		"Valor a ser somado no preço base para o Socket Add MP Recovery Rate"
+WebShopSocketOption24PriceMult	"Valor mult. Add MP Recovery Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Add MP Recovery Rate"
+WebShop--
+WebShopSocketOption25PriceSum	"Valor soma Add Max BP"				"99"		"Valor a ser somado no preço base para o Socket Add Max BP"
+WebShopSocketOption25PriceMult	"Valor mult. Add Max BP"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Max BP"
+WebShop--
+WebShopSocketOption26PriceSum	"Valor soma Add BP Recovery Rate"	"99"		"Valor a ser somado no preço base para o Socket Add BP Recovery Rate"
+WebShopSocketOption26PriceMult	"Valor mult. Add BP Recovery Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Add BP Recovery Rate"
+WebShop--
+WebShop--
+WebShopSocketOption29PriceSum	"Valor soma Add Excellent Damage"	"199"		"Valor a ser somado no preço base para o Socket Add Excellent Damage"
+WebShopSocketOption29PriceMult	"Valor mult. Add Excellent Damage"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Excellent Damage"
+WebShop--
+WebShopSocketOption30PriceSum	"Valor soma Add Excell. Damg Rate"	"299"		"Valor a ser somado no preço base para o Socket Add Excellent Damage Rate"
+WebShopSocketOption30PriceMult	"Valor mult. Add Excell. Dmg. Rate"	0"			"Valor a ser multiplicado no preço base para o Socket Add Excellent Damage Rate"
+WebShop--
+WebShopSocketOption31PriceSum	"Valor soma Add Critical Damage"	"199"		"Valor a ser somado no preço base para o Socket Add Critical Damage"
+WebShopSocketOption31PriceMult	"Valor mult. Add Critical Damage"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Critical Damage"
+WebShop--
+WebShopSocketOption32PriceSum	"Valor soma Add Critical Dmg Rate"	"299"		"Valor a ser somado no preço base para o Socket Add Critical Damage Rate"
+WebShopSocketOption32PriceMult	"Valor mult. Add Critical Dmg Rate"	"0"			"Valor a ser multiplicado no preço base para o Socket Add Critical Damage Rate"
+WebShop--
+WebShop--
+WebShopSocketOption34PriceSum	"Valor soma Add Strength"			"199"		"Valor a ser somado no preço base para o Socket Add Strength"
+WebShopSocketOption34PriceMult	"Valor mult. Add Strength"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Strength"
+WebShopSocketOption35PriceSum	"Valor soma Add Dexterity"			"199"		"Valor a ser somado no preço base para o Socket Add Dexterity"
+WebShopSocketOption35PriceMult	"Valor mult. Add Dexterity"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Dexterity"
+WebShopSocketOption36PriceSum	"Valor soma Add Vitality"			"199"		"Valor a ser somado no preço base para o Socket Add Vitality"
+WebShopSocketOption36PriceMult	"Valor mult. Add Vitality"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Vitality"
+WebShopSocketOption37PriceSum	"Valor soma Add Energy"				"199"		"Valor a ser somado no preço base para o Socket Add Energy"
+WebShopSocketOption37PriceMult	"Valor mult. Add Energy"			"0"			"Valor a ser multiplicado no preço base para o Socket Add Energy"
+WebShop--
+WebShop--
+WebShopSocketRepeat				"Permitir repetir sockets"			"false"		"Permitir (ativar) ou não (desativar) compra de item com socket repetido"
+WebShop--
+//Config name					Show name							Default 				Description
+WebShopInsurancePriceSum		"Valor soma Seguro"					"0"			"Valor a ser somado no preço base para item com Seguro"
+WebShopInsurancePriceMult		"Valor mult. Seguro"				"0.1"		"Valor a ser multiplicado no preço base para item com Seguro"
+WebShopNoTrade					"Ferrarezi NO Trade System"			"false"		"Ativa ou desativa o NO TRADE para itens com seguro (apenas servidores Ferrarezi)"
+WebShop--
+WebShopAmountRebatePercent		"Desconto % para multiplos itens"	"5"			"Valor em porcento para desconto em caso de compra de multiplos itens"
+WebShopAmountRebatePercentMax	"Máximo desconto por quantidade"	"20"		"Valor em porcento para máximo de desconto em compra de mais de um item"
+WebShop--
+WebShopVIP0RebatePercent		"Desconto % para VIP 0"				"0"			"Valor em porcento para desconto para usuários de VIP 0"
+WebShopVIP1RebatePercent		"Desconto % para VIP 1"				"0"			"Valor em porcento para desconto para usuários de VIP 1"
+WebShopVIP2RebatePercent		"Desconto % para VIP 2"				"0"			"Valor em porcento para desconto para usuários de VIP 2"
+WebShopVIP3RebatePercent		"Desconto % para VIP 3"				"0"			"Valor em porcento para desconto para usuários de VIP 3"
+WebShop--
+WebShopCancelByUser				"Usuário pode cancelar compra?"		"false"		"Ativar para o usuário poder cancelar sua própria compra."
+WebShopRemoveInsuranceByUser	"Usuário pode remover seguro?"		"false"		"Ativar para o usuário poder remover o seguro de sua própria compra."
+WebShopCancelPercentNoInsurance	"Devolução sem Seguro em %"			"70"		"Valor em % a ser devolvido para itens SEM seguro em caso de cancelamento de compras via Manager"
+WebShopCancelPercentInsurance	"Devolução com Seguro em %"			"90"		"Valor em % a ser devolvido para itens COM seguro em caso de cancelamento de compras via Manager"
+WebShop--
+WebShopShowItemSerial			"Mostrar Serial na descrição"		"true"		"Mostrar ou não o serial do item na descrição do mesmo, no site"
+WebShopShowItemBuyier			"Mostrar comprador na descrição"	"true"		"Mostrar ou não o login do usuário que comprou o item na Loja de Itens"
+WebShopShowSecuredItem			"Mostrar se o item tem seguro"		"true"		"Mostrar ou não se o item é um item segurado"
+WebShopShowNOTradeItem			"Mostrar se o item é NO Trade"		"false"		"Mostrar ou não se o item é um item NO Trade"
+WebShop--
+WebShopShowClassReq				"Mostrar classe requerida"			"false"		"Ativar para mostrar a classe requerida pelo item ao listar os itens da Loja de Itens"
+
+//WEB TRADE
+//Config name			Show name					Default value				Description
+WebTradeBlockCheck		"Verificar bloqueio"		"true"						"Verificar se o usuário está bloqueado antes de permitir o uso do WebTrade"
+WebTradeSnoCheck		"Verificar SNO"				"true"						"Solicitar a Chave de Segurança (SNO) do usuário no WebTrade"
+WebTrade--
+WebTradeMaxItems		"Quant. máx. de itens"		"0"							"Quantidade máxima de itens que podem ser enviados em uma transação. Para 'sem limite', valor = 0"
+WebTrade--
+WebTradeMessage			"Enviar Aviso no site"		"true"						"Notificar usuários participantes na negociação sobre seu status"
+WebTrade--
+WebTradeBlockHarmony	"Bloquear itens Harmony"	"false"						"Bloquear a venda e troca de itens com option de Harmony"
+WebTradeBlockLucky		"Bloquear Lucky Itens"		"false"						"Bloquear os itens Lucky (sets dos IDs 62 a 72)."
+
+//WEB VAULT
+//Config name			Show name					Default value				Description
+WebVaultSwitchAL0		"Ativar para VIP 0"			"true"						"Permitir usuários VIP 0 utilizar o Baú Virtual"
+WebVaultSwitchAL1		"Ativar para VIP 1"			"true"						"Permitir usuários VIP 1 utilizar o Baú Virtual"
+WebVaultSwitchAL2		"Ativar para VIP 2"			"true"						"Permitir usuários VIP 2 utilizar o Baú Virtual"
+WebVaultSwitchAL3		"Ativar para VIP 3"			"true"						"Permitir usuários VIP 3 utilizar o Baú Virtual"
+WebVault--
+WebVaultBlockCheck		"Verificar bloqueio"		"true"						"Verificar se o usuário está bloqueado antes de permitir o uso do WebVault"
+WebVaultSnoCheck		"Verificar SNO"				"true"						"Solicitar a Chave de Segurança (SNO) do usuário no WebVault"
+WebVaultAutoCreate		"Criar bau automaticamente"	"true"						"Caso o usuário ainda não tenha baú, criar automaticamente (sim = true | não = false)"
+WebVault--
+WebVaultLimitAL0		"Limite de itens VIP 0"		"5"							"Limite de itens guardados para contas com VIP 0"
+WebVaultLimitAL1		"Limite de itens VIP 1"		"25"						"Limite de itens guardados para contas com VIP 1"
+WebVaultLimitAL2		"Limite de itens VIP 2"		"50"						"Limite de itens guardados para contas com VIP 2"
+WebVaultLimitAL3		"Limite de itens VIP 3"		"100"						"Limite de itens guardados para contas com VIP 3"
+WebVault--
+WebVaultUseExtra		"Enviar para bau extendido"	"false"						"Envia ou não itens para o baú extendido (Season6). Em DESATIVAR serão considerados apenas os 120 slots do baú normal."
+
+
+//----------------------------------------------------------------------------------------------------------------------------------

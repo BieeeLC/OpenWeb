@@ -1,0 +1,573 @@
+[25-Dec-2014 20:08:58 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 21:52:14 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 21:59:33 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 23:18:42 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 23:18:43 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Dec-2014 14:24:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Dec-2014 19:19:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Dec-2014 19:19:36 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Dec-2014 21:42:27 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Dec-2014 19:43:37 America/Sao_Paulo] PHP Warning:  mssql_query(): Query failed in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Dec-2014 21:57:57 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 02:52:13 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 03:26:36 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 04:18:31 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 12:25:35 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 10:25:51 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[09-Jan-2015 10:25:51 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[09-Jan-2015 12:25:56 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 10:26:16 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[09-Jan-2015 10:26:16 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[09-Jan-2015 12:26:21 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[09-Jan-2015 10:26:41 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[09-Jan-2015 10:26:41 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[09-Jan-2015 12:26:46 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 12:48:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 10:48:49 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[10-Jan-2015 10:48:49 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[10-Jan-2015 12:48:54 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 10:49:10 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[10-Jan-2015 10:49:10 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[10-Jan-2015 12:49:13 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 10:49:25 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[10-Jan-2015 10:49:25 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[10-Jan-2015 17:26:40 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 17:31:31 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 17:57:14 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 18:38:17 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[10-Jan-2015 19:34:50 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[14-Jan-2015 22:45:36 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[15-Jan-2015 17:34:15 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[18-Jan-2015 01:33:26 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[18-Jan-2015 01:38:19 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[17-Jan-2015 23:38:39 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[17-Jan-2015 23:38:39 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[18-Jan-2015 01:38:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[17-Jan-2015 23:39:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[17-Jan-2015 23:39:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[18-Jan-2015 01:39:09 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[17-Jan-2015 23:39:29 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[17-Jan-2015 23:39:29 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[18-Jan-2015 01:39:59 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[17-Jan-2015 23:40:19 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[17-Jan-2015 23:40:19 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:14:39 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:14:59 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:14:59 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:15:27 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:15:47 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:15:47 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:15:52 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:16:12 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:16:12 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:16:17 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:16:37 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:16:37 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:21:08 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:21:20 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:21:20 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:21:51 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:22:11 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:22:11 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:37:58 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:38:18 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:38:18 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 01:39:24 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[20-Jan-2015 23:39:44 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[20-Jan-2015 23:39:44 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 02:30:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 00:30:22 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 00:30:22 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:02 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:02 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:10 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:10 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): message: Login failed for user 'web'. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 19:51:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[21-Jan-2015 17:51:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[22-Jan-2015 19:34:37 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[22-Jan-2015 17:34:57 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[22-Jan-2015 17:34:57 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[22-Jan-2015 19:35:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[22-Jan-2015 17:35:22 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[22-Jan-2015 17:35:22 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[22-Jan-2015 19:35:27 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[22-Jan-2015 17:35:47 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[22-Jan-2015 17:35:47 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[22-Jan-2015 19:35:52 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[22-Jan-2015 17:36:12 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[22-Jan-2015 17:36:12 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[22-Jan-2015 19:36:17 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[22-Jan-2015 17:36:37 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[22-Jan-2015 17:36:37 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 05:28:29 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 03:28:40 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 03:28:40 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 05:28:45 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 03:29:05 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 03:29:05 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 05:29:20 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:31:07 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:31:27 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:31:27 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:31:32 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:31:52 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:31:52 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:31:57 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:32:17 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:32:17 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:32:22 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:32:42 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:32:42 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:32:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:32:51 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:33:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:33:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:33:11 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:33:11 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:33:12 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:33:32 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:33:32 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:33:37 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:33:57 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:33:57 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:35:17 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:37:32 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:37:33 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:37:48 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:37:52 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:37:52 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:37:53 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:37:53 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:37:57 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:38:01 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:01 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:38:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:38:06 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:38:10 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:10 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:38:15 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:38:24 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:24 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:38:26 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:26 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:38:29 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:38:31 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:38:35 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:35 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:38:40 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:38:49 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:49 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:38:51 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:38:51 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:38:54 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:39:00 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:39:00 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:39:14 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:39:14 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:39:19 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:39:39 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:39:39 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:39:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:39:53 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:40:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:40:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:40:13 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:40:13 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:40:16 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:40:18 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:40:20 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:40:36 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:40:36 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:40:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:40:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:40:40 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:40:40 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:40:41 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:40:45 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:41:01 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:41:01 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:41:05 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:41:05 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:41:06 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:41:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:41:26 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:41:26 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:41:30 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:41:30 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:41:35 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:41:55 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:41:55 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:42:00 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:42:20 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:42:20 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:42:25 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:42:45 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:42:45 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:43:54 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:44:01 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:44:13 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:44:13 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:44:14 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:44:14 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:44:19 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:44:39 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:44:39 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:44:43 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:44:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:44:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:44:55 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:44:55 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:44:55 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:45:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:45:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:45:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:45:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:45:15 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:45:15 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:45:20 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:45:40 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:45:40 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:45:50 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:46:10 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:46:10 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:46:15 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:46:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:46:35 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:46:35 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:46:54 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:46:54 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:46:59 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:47:13 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:47:13 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:47:18 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:47:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:47:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:47:43 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:48:03 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:48:03 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:48:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:49:06 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:49:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:49:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:49:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:49:22 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:49:22 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:49:26 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:49:26 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:49:31 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:49:33 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:49:42 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:49:46 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:49:51 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:49:51 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:49:54 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:49:54 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:49:56 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:49:59 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:02 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:02 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:50:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:07 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:50:12 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:16 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:16 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:50:19 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:19 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:21 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:50:24 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:25 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:25 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:30 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:32 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:32 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:37 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:42 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:42 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:50:44 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:44 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:50 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:50 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:50:55 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:50:57 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:50:57 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:51:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:51:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:51:07 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:51:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:51:15 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:51:15 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:51:28 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:51:28 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:51:30 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:51:30 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:56:37 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:56:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:56:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:56:47 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:56:47 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:57:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:57:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:57:07 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:57:07 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:57:09 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:57:30 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:57:30 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:57:35 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:57:48 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:57:49 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:57:55 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:57:55 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:57:59 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:57:59 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:58:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:58:08 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:08 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:58:12 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:58:13 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:58:23 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:23 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:58:24 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:24 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:58:25 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:58:28 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:58:33 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:33 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:58:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:58:45 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:45 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:58:48 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:48 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:58:50 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:58:54 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:58:58 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:58:58 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:59:03 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:59:10 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:10 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:59:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:59:14 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:14 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:59:19 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:59:23 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:23 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:59:28 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[24-Jan-2015 23:59:30 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:30 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:59:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[24-Jan-2015 23:59:39 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[24-Jan-2015 23:59:39 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 01:59:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 01:59:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:00:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 00:00:04 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:04 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:00:09 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 02:00:09 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:00:29 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:29 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 00:00:29 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:29 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:00:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 02:00:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 02:00:36 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:00:51 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:51 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 00:00:54 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:54 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 00:00:54 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:00:54 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:00:56 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 02:00:59 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:01:15 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:01:15 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 00:01:16 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:01:16 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:01:21 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:01:41 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:01:41 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:54:03 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:54:23 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:54:23 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:54:28 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Jan-2015 00:54:48 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[25-Jan-2015 00:54:48 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[25-Jan-2015 02:55:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 14:28:38 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:38 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:38 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:39 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:39 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:39 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:43 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:43 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:43 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:52 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:52 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:52 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:52 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:52 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:52 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:54 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:54 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:54 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:28:56 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.5 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[26-Jan-2015 12:28:56 America/Sao_Paulo] PHP Warning:  mssql_query() expects parameter 2 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:28:56 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, null given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): message: Database 'MuOnline' is being recovered. Waiting until recovery is finished. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): Unable to select database:  MuOnline in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): message: Database 'MuOnline' is being recovered. Waiting until recovery is finished. (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): General SQL Server error: Check messages from the SQL Server (severity 14) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:01 UTC] PHP Warning:  mssql_select_db(): Unable to select database:  MuOnline in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): message: Invalid object name 'MEMB_INFO'. (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): Query failed in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): message: Invalid object name 'MEMB_INFO'. (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_query(): Query failed in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:02 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[26-Jan-2015 14:29:05 UTC] PHP Warning:  mssql_select_db(): message: Lock request time out period exceeded. (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:05 UTC] PHP Warning:  mssql_select_db(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 14:29:05 UTC] PHP Warning:  mssql_select_db(): Unable to select database:  MuOnline in /home/iconemu/public_html/System/MuDatabase.class.php on line 269
+[26-Jan-2015 12:29:05 America/Sao_Paulo] PHP Warning:  mssql_query(): message: Invalid object name 'MEMB_INFO'. (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:05 America/Sao_Paulo] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:05 America/Sao_Paulo] PHP Warning:  mssql_query(): Query failed in /home/iconemu/public_html/System/MuDatabase.class.php on line 382
+[26-Jan-2015 12:29:05 America/Sao_Paulo] PHP Warning:  mssql_num_rows() expects parameter 1 to be resource, boolean given in /home/iconemu/public_html/System/MuDatabase.class.php on line 569
+[03-Mar-2015 21:08:36 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:08:48 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:08:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:09:23 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:09:24 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:09:29 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:09:37 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:09:50 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:03 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:16 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:27 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:32 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:36 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:38 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:11:19 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:11:30 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:11:36 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:19 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:26 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:32 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:38 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:49 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:51 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:51 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:53 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:53 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:55 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:55 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:56 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:56 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:57 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:12:58 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0

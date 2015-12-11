@@ -1,0 +1,94 @@
+/* CSS Document */
+.WebTradeWarningMessage {
+	color:#900;
+	font-weight:bold;
+	border-style:solid;
+	border-width: 1px;
+	display:block;
+	width:50%;
+	background-color:#FF9;
+}
+
+.WebTradeDestinationCharNameDiv
+{
+	text-align:center;
+	display:block;
+	font-weight:bold;
+	color:#000;
+}
+
+.WebTradeDestinationCharNameTextField
+{
+	width:100px;
+}
+
+.WebTradeSellItemSelectTable
+{
+	width:98%; 
+    margin:1%;
+}
+
+.WebTradeSellItemButtonDiv
+{
+	text-align:center;
+	display:block;
+}
+
+.WebTradeSellItemButton
+{
+	
+}
+
+.WebTradeSellingItemTable
+{
+	width:90%; 
+    margin-left:5%;
+	margin-right:5%;
+	margin-bottom:20px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-right-style:solid;
+	border-right-color:#000000;
+}
+.WebTradeSellingItemTable td
+{
+	background-color:#EEE;
+	color:#000;
+}
+.WebTradeSellingItemTable th
+{
+	background-color:#EEE;
+	color:#000;
+	font-weight:bold;
+}
+
+.WebTradeSendBidTable
+{
+	width:90%; 
+    margin-left:5%;
+	margin-right:5%;
+	margin-bottom:20px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-right-style:solid;
+	border-right-color:#000000;
+}
+.WebTradeSendBidTable td
+{
+	background-color:#EEE;
+	color:#000;
+}
+.WebTradeSendBidTable th
+{
+	background-color:#EEE;
+	color:#000;
+	font-weight:bold;
+}

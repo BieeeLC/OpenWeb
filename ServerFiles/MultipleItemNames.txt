@@ -1,0 +1,120 @@
+// Ferrarezi Web
+// Multiple Item Names Config File 
+// Last Review 05/09/2011 by Ferrarezi
+// Thanks to Beeware from IllusionTeam.com
+// ---------------------------------------------
+
+//Type Index	Level	Name
+
+//Summoning Orbs
+12	11	0	"Summoning Goblin"
+12	11	1	"Summoning Stone Golen"
+12	11	2	"Summoning Assassin"
+12	11	3	"Summoning Bali"
+12	11	4	"Summoning Soldier"
+12	11	5	"Summoning Yeti"
+12	11	6	"Summoning Dark Knight"
+
+//Gem of Secret
+12	26	1	"Red Crystal"
+12	26	2	"Blue Crystal"
+12	26	3	"Dark Crystal"
+12	26	4	"Box of Teasure"
+12	26	5	"Box of Surprise"
+
+//Bundled Bless
+12	30	0	"Bundler of Jewel of Bless +10"
+12	30	1	"Bundler of Jewel of Bless +20"
+12	30	2	"Bundler of Jewel of Bless +30"
+
+//Bundled Soul
+12	31	0	"Bundler of Jewel of Soul +10"
+12	31	1	"Bundler of Jewel of Soul +20"
+12	31	2	"Bundler of Jewel of Soul +30"
+
+
+//Type	Index	Level	Name
+
+//Contract
+13	7	0	"Archer"
+13	7	1	"Sperman"
+
+//Transformation Rings
+13	10	0	"Ring of Transformation Dragon"
+13	10	1	"Ring of Transformation Gigant"
+13	10	2	"Ring of Transformation Skeleton"
+13	10	3	"Ring of Transformation Bull"
+13	10	4	"Ring of Transformation Linch"
+13	10	5	"Ring of Transformation Death Cow"
+
+//Order
+13	11	0	"Guardian"
+13	11	1	"Life Stone"
+
+//Lochs Feather
+13	14	1	"Crest of Monarch"
+
+//Fruits
+13	15	1	"Agility Fruit"
+13	15	2	"Stamina Fruit"
+13	15	3	"Energy Fruit"
+13	15	4	"Command Fruit"
+
+//Divine Weapons (Blood Castle)
+13	19	1	"Divine Sword of Archangel"
+13	19	2	"Divine Crossbow of Archangel"
+
+//Starter Rings
+13	20	1	"Ring of Warrior 40"
+13	20	2	"Ring of Warrior 80"
+
+//Pet Spirits
+13	31	0	"Spirit of Darh Horse"
+13	31	1	"Spirit of Raven"
+
+
+//Type Index	Level	Name
+
+//Castle Siege potions
+14	7	0	"Potion of Bless"
+14	7	1	"Potion of Soul"
+
+//Ale/Alchool
+14	9	1	"Olivas"
+
+//Box of Luck variations
+14	11	1	"Star"
+14	11	2	"FireCracker"
+14	11	3	"Heart Of Love"
+14	11	5	"Silver Medal"
+14	11	6	"Gold Medal"
+14	11	7	"Box Of Heaven"
+14	11	8	"Box of Kundun +1"
+14	11	9	"Box of Kundun +2"
+14	11	10	"Box of Kundun +3"
+14	11	11	"Box of Kundun +4"
+14	11	12	"Box of Kundun +5"
+14	11	13	"Heart Of Lord"
+
+//Sign of Zen
+14	12	1	"Heart"
+14	12	2	"Pergamin"
+
+//Rena variations
+14	21	1	"Stone"
+14	21	3	"Sing of Lord"
+
+//Scroll of Emperor variation
+14	23	1	"Ring of Honor"
+
+//Broken Sword variation
+14	24	1	"Dark Stone"
+
+//Pink Chocolate Box
+14	32	1	"Pink Candy"
+
+//Orange Chocolate Box
+14	33	1	"Orange Candy"
+
+//Blue Chocolate Box
+14	34	1	"Blue Candy"

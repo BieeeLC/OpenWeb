@@ -1,0 +1,15 @@
+.SystemInformationTable
+{
+	width: 99%;
+	margin: auto;
+}
+
+.SystemInformationTable th
+{
+	width: 50%;
+}
+
+.SystemInformationTable td
+{
+	width: 50%;
+}

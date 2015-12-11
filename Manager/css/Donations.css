@@ -1,0 +1,41 @@
+.DonationsConfirmationsTable
+{
+	width: 99%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 1px #000000 solid;
+}
+
+
+.DonationsConfirmationTable
+{
+	width: 99%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 1px #000000 solid;
+}
+
+.DonationsPreviousConfirmations
+{
+	width: 99%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 1px #000000 solid;	
+}
+
+.DonationsPreviousConfirmations td
+{
+	border: 1px #000000 solid;	
+}
+
+.DonationsSimilarDataTable
+{
+	width: 100%;
+	border: 1px #000000 solid;
+	background-color:#FFFFCC;
+}
+
+.DonationsFormatLegend
+{
+	font-size:9px;
+}

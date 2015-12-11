@@ -1,0 +1,116 @@
+.WebShopLogSearchTable
+{
+	width: 80%;
+	margin:auto;
+}
+
+.WebShopLogSearchTable th
+{
+	padding:3px;
+}
+
+.WebShopLogSearchTable td
+{
+	padding:3px;
+}
+
+.WebShopLogListTable
+{
+	width: 99%;
+	margin:auto;
+	font-size:12px;
+}
+
+.WebShopLogListTable th
+{
+	text-align:center;
+	text-decoration:none
+}
+
+.WebShopCategoriesTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopItemSelectionTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopItemSelectionTable td
+{
+
+}
+
+.WebShopItemConfigTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopItemConfigTable td,tr
+{
+	width:50%;
+	padding:2px;
+}
+
+.WebShopItemListTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopItemListTable th 
+{
+	font-size:11px;
+	color:#FFF;
+	background-color:#000000;
+	text-align:center;
+}
+
+.WebShopItemListTable td
+{
+	font-size:10px;
+	text-align:center;
+}
+
+.WebShopNewPackTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopNewPackTable th
+{
+	text-align:right;
+}
+
+.WebShopManageItemsPackStructure
+{
+	width:99%;
+	margin: auto;
+}
+
+.WebShopManageItemsPackStructure td
+{
+	/*width:50%;*/
+}
+
+.WebShopExcellentOptionsCell
+{
+	font-size:9px;
+}
+
+.WebShopNewDiscountCodeTable
+{
+	width:99%;
+	margin:auto;
+}
+
+.WebShopDiscCodesTable
+{
+	width:99%;
+	margin:auto;
+}

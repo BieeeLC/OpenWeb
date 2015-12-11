@@ -1,0 +1,53 @@
+.CreditShopNewTable {
+		
+}
+
+.CreditShopPackList {
+	width: 99%;
+	margin:auto;
+}
+
+.CreditShopDisablePackList {
+	width: 99%;
+	margin:auto;
+}
+
+.CreditShopPackDescription {
+	font-size:9px;
+}
+
+.CreditShopPackItensList {
+	border: 1px #000 solid;
+	padding:1px;
+	width:50%;
+}
+
+.CreditShopPackItensList td {
+	padding:1px;
+}
+
+.CreditShopPackItensList th {
+	padding:1px;
+}
+
+.CreditShopAddItemTable {
+	width: 99%;
+	margin:auto;
+}
+
+.CreditShopItemVipTable {
+	width: 99%;
+	margin:auto;
+	border: 2px solid #000;	
+}
+
+.CreditShopItemCashTable {
+	width: 99%;
+	margin:auto;
+	border: 2px solid #000;
+}
+
+.CreditShopCurrenciesTable {
+	width:90%;
+	margin:auto;
+}

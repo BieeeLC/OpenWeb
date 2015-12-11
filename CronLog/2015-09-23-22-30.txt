@@ -1,0 +1,2 @@
+[23/09/2015 22:30:58] [VIP ITEMS] No itens to verify
+[23/09/2015 22:30:58] [VIP ITEMS] End - Process time: 0.103 seconds - - - - - - - - - - - - - - 

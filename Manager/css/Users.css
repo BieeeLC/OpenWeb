@@ -1,0 +1,77 @@
+
+.UserInfoTable {
+	width: 99.9%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
+}
+
+.UserInfoTable td {
+	padding:3px;
+}
+
+.UserInfoServersTable {
+	width: 99%;
+	margin:auto;
+}
+
+.UserInfoServersTable td {
+	padding:3px;
+	width:50%;
+}
+
+.UserInfoServerTable {
+	width: 99%;
+	margin:auto;
+}
+
+.UserInfoServerTable th {
+	background-color:#FFC;
+}
+
+.UserInfoCharsTable {
+	
+}
+
+.UserInfoCharsTable th {
+	font-size:11px;
+	font-weight:bold;
+	border-bottom: 1px solid #000;
+}
+
+.UserInfoCharsTable td {
+	font-size:11px;
+	border-bottom: 1px solid #000;
+}
+
+.UserInfoDonationsTable {
+	width: 99.9%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
+}
+
+.UserInfoDonationsTable {
+	width: 99.9%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
+}
+
+.UserInfoDonationsTable th {
+	background-color:#FFC;
+	border: 1px solid #000;
+}
+
+.UserInfoDonationsTable td {
+	border: 1px solid #000;
+}
+
+.FindUserForm
+{
+	width:300px;
+	margin: auto;
+}
+
+.UsersManagersListTable {
+	width:99%;
+	margin:auto;
+	text-align:center;
+}

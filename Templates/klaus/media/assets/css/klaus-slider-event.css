@@ -1,0 +1,149 @@
+ul {list-style-type:none;}
+.event{
+	display:none;
+	margin:0 auto;
+}
+.event-control{
+	padding-bottom:20px;
+}
+.arrows{
+	position:absolute;
+	top:1px;
+	left:0;
+	z-index:100;
+}
+.arrow{
+	position:relative;
+	top:-34px;
+	left:240px;
+	float:left;
+	width:13px;
+	height:0;
+	margin-right:7px;
+	padding-top:16px;
+	overflow:hidden;
+	background:transparent url('../imagens/events/arrows.png') no-repeat;
+}
+
+.arrow-left{
+	background-position:0 0;
+}
+.arrow-left:hover{
+	background-position:0 -16px;
+}
+.arrow-right{
+	background-position:-20px 0;
+	left:20px;
+	margin-left:220px;
+}
+.arrow-right:hover{
+	background-position:-20px -16px;
+}
+.buttons{
+	position:absolute;
+	top:5px;
+	right:0px;
+	z-index:100;
+}
+.pagination{
+	float:left;
+	margin:0 2px;
+}
+.pagination a{
+	display:block;
+	width:10px;
+	height:0;
+	padding-top:10px;
+	background-image:url('img/pagination.png');
+	background-position:0 0;
+	overflow:hidden;
+}
+.pagination a:hover,
+.active-button a{
+	background-position:0 -30px;
+}
+
+#siege-event, 
+#blood-event, 
+#devil-event, 
+#chaos-event,
+#rakilion-event,
+#illusion-event,
+#kanturu-event {
+	text-align:center;
+}
+
+#siege-event, 
+#blood-event, 
+#devil-event, 
+#chaos-event,
+#rakilion-event,
+#illusion-event,
+#kanturu-event, h1 {
+	color:#1e738f;
+}
+
+#siege-event, 
+#blood-event, 
+#devil-event, 
+#chaos-event,
+#rakilion-event,
+#illusion-event,
+#kanturu-event, p {
+	color:#fff;
+}
+
+    /* EVENTOS GamePlay */
+
+.boxMeio_ev ul li img {
+    float: left;
+    padding-top: 4px;
+}
+
+#events > li { /* Borda 1 */
+	border-bottom: 1px solid #101010;
+    position: relative;
+}
+
+#events > li:before { /* Borda 2 */
+    position: absolute; 
+	display: block; 
+	content: '';
+    border-bottom: 1px solid #262626;
+    height: 100%;
+	width: 100%;
+    box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+
+#events > li > p {
+	text-indent:2%;
+	padding:5px;
+	font-size:13px;
+}
+
+#events > li > p:before {
+	content:"→";
+	margin-right:5px;
+	color:yellow;
+}
+.time_event {
+
+	color:yellow;	
+}
+
+.bTimeEvent span strong{
+    color:#0088cc !important;
+}
+.bTimeEvent .ptime{
+    font-size: 11px;
+    padding: 0 0 0 5px;
+    color:#FFF !important;
+}
+
+    /* Castle Siege*/
+#CastleSiegeWidget {position:relative;margin:auto;width:258px;height:225px;background-image:url(../imagens/castleSiegeWidget.png);margin-top:10px;}
+#CastleOwnerMark {position:relative;width:80px;height:80px;left:153px;top:3px;}
+#CastleTextData {color:yellow;position:relative;width:90px;top: 8px;left:147px;text-align:center;}
+#CastleNextDate {color:#0088cc;position:relative;width:60px;height:21px;top:67px;left:118px;text-align:center;padding-top:6px;}
+#CastleNextTime {color:#0088cc;position:relative;width:60px;height:21px;top:40px;left:188px;text-align:center;padding-top:6px;}
+

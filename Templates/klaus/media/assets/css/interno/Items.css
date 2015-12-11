@@ -1,0 +1,145 @@
+/* CSS Document */
+.AncientItemName {
+	color:#9F0;
+	background-color:#06F;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.SocketItemName {
+	font-weight:bold;
+	color:#C3C;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.ExcellentItemName {
+	color:#0F9;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.LuckAddItemName {
+	color:#7DAEFF;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.NormalItemName {
+	color:#EEE;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.HighLevelItemName {
+	color:#FC3;
+	background-color:#080705;
+	width:100%;
+	text-align:center;
+	cursor:s-resize;
+}
+
+.ItemDescription {
+	text-align:center;
+	background:#080705;
+	color:#EEE;
+	font-size:9px;
+	display:none;
+}
+
+.ItemDefense {
+	color:#EEE;
+}
+
+.ItemDefenseExcellent {
+	color:#7DAEFF;
+}
+
+.ItemDamage {
+	color:#EEE;
+}
+
+.ItemDamageExcellent {
+	color:#7DAEFF;
+}
+
+.ItemAttackSpeed {
+	color:#EEE;
+}
+
+.ItemDurability {
+	color:#EEE;
+}
+
+.ItemResistance {
+	color:#EEE;
+}
+
+.ItemRequirement {
+	color:#EEE;
+}
+
+.ItemLevelRequirement {
+	color:#EEE;
+}
+
+.ItemClassRequirement {
+	color:#EEE;
+}
+
+.ItemAncientOption {
+	color:#7DAEFF;
+}
+
+.ItemMagicPower {
+	color:#7DAEFF;
+}
+
+.Item380Option {
+	color:#B58FB6;
+}
+
+.ItemHarmony {
+	color:#FC3;
+}
+
+.ItemSkill {
+	color:#7DAEFF;
+}
+
+.ItemLuck {
+	color:#7DAEFF;
+}
+
+.ItemAddOption {
+	color:#7DAEFF;
+}
+
+.ItemExcellentOptions {
+	color:#7DAEFF;
+}
+
+.ItemSocketTitle {
+	color:#C09;
+}
+
+.ItemSocketDisabled {
+	color:#777;
+}
+
+.ItemSocketOption {
+	color:#7DAEFF;
+}
+
+.ItemNOTrade {
+	color:#FF3333;
+}

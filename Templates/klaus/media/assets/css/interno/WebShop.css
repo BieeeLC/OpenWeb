@@ -1,0 +1,164 @@
+/* CSS Document */
+.WebShopCategoriesTable {
+	width:100%;
+	background-color:#FFF;
+	border: 2px #a64240 solid;
+        margin-bottom: 15px;
+        padding: 10px;
+}
+legend {
+    color: #fff !important;
+}
+.WebShopSubCategoriesTable {
+	width:100%;
+	background-color:#FFF;
+	border: 2px #a64240 solid;
+}
+
+.WebShopSelectedCategory a {
+	background-color:#0088cc;
+	color: #FFF;
+	padding: 5px;
+}
+
+.WebShopSelectedCategory a hover {
+	background-color:#0088cc;
+	color: #FFF;
+	padding: 5px;
+}
+
+.WebShopItemsTable {
+	width:100%;
+}
+
+.WebShopItemsTable td {
+	padding: 10px;
+}
+
+.WebShopItemName {
+	font-size: 24px;
+	color:#0088cc;
+	font-weight:bold;
+}
+
+.WebShopItemListImage {
+	border-bottom-width: 1px;
+	border-bottom-color: #0088cc;
+	border-bottom-style: solid
+}
+
+.WebShopItemListDescription {
+	border-bottom-width: 1px;
+	border-bottom-color: #0088cc;
+	border-bottom-style: solid
+}
+
+.WebShopItemListBuy {
+	border-bottom-width: 1px;
+	border-bottom-color: #0088cc;
+	border-bottom-style: solid
+}
+
+.WebShopItemConfigTable {
+    width:100%;
+    margin:1%;
+    padding:0px;
+}
+.WebShopItemConfigTable td {
+    width:130px;
+    margin:1px;
+    padding:10px;
+}
+
+.WebShopItemLevelSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.WebShopItemAddOptSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.WebShopItemAncientSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.WebShopItemQuantSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;	
+}
+
+.WebShopItemHarmonyOptSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.WebShopItemSocketSelect {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+.WebShopExcellentTitle {
+	background-color:#000;
+	color:#0C9;
+	font-weight:bold;
+}
+
+.WebShopAncientTitle {
+	color:#9F0;
+	background-color:#06F;
+	font-weight:bold;
+}
+
+.WebShopHarmonyTitle {
+	background-color:#000;
+	color:#FC3;
+	font-weight:bold;
+}
+
+.WebShopItemSocketTitle {
+	background-color:#000;
+	color:#C3C;
+	font-weight:bold;
+}
+
+.WebShop380OptTitle {
+	background-color:#000;
+	color:#B58FB6;
+	font-weight:bold;
+}
+
+.WebShopBuyItemButton {
+	background-color:#000;
+	color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.WebShopItemFinalPrice {
+	font-size:15px;
+	font-weight:bold;
+	color:#FFF;
+	background-color:#000;
+	text-align:center;
+}
+
+.WebShopFullHistoryTable {
+	width:98%;
+	margin: 1%;
+}
+
+.ItemCancelConfirmMessage {
+	color:#F00;
+}
+
+.WebShopItemPaymentChoose {
+	font-size:13px;
+	font-weight:bold;
+	color:#FFF;
+	background-color:#000;
+	text-align:center;
+	vertical-align:middle;
+}

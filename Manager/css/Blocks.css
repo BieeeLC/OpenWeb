@@ -1,0 +1,20 @@
+.BlockListTable
+{
+	width: 99%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 1px #000000 solid;
+}
+
+.BlockListCause
+{
+	font-size: 12px;
+}
+
+.BlockFormTable
+{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 1px #000000 solid;
+}

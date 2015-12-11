@@ -1,0 +1,156 @@
+.HelpDeskTicketsTable
+{
+	width: 99.9%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
+	border: 1px #000000 solid;
+}
+
+.HelpDeskTicketsTable td
+{
+	padding:3px;
+}
+
+.HelpDeskTicketsTable th
+{
+	text-align:center;
+}
+
+.HelpDeskTicketRowOdd
+{
+	background-color: #FFFFFF;
+}
+
+.HelpDeskTicketRowOdd:hover
+{
+	background-color: #FFFF00;
+}
+
+.HelpDeskTicketRowEven
+{
+	background-color: #DDDDDD;
+}
+
+.HelpDeskTicketRowEven:hover
+{
+	background-color: #FFFF00;
+}
+
+.HelpDeskViewTicketInfoTable
+{
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+.HelpDeskViewTicketMessagesTable
+{
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+	border: 2px #000000 solid;
+}
+
+.HelpDeskUserMessage
+{
+	background-color: #FFFFCC;
+}
+.HelpDeskSupporterMessage
+{
+	background-color: #DDDDDD;
+}
+
+.HelpDeskViewTicketActionsTable
+{
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color:#FFFFFF;
+	border: 2px #000000 solid;
+}
+
+.HelpDeskMessageBox
+{
+	width: 100%;
+	height: 100px;
+	border: 1px #000000 solid;
+}
+
+.HelpDeskSearchTable
+{
+	width: 350px;
+	margin-left:auto; 
+    margin-right:auto;
+	border: 2px #000000 solid;
+}
+
+.HelpDeskSearchResultsTable
+{
+	width: 99.9%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
+	border: 1px #000000 solid;
+}
+.HelpDeskSearchResultsTable td
+{
+	padding:3px;
+}
+
+.HelpDeskTicketsTable th
+{
+	text-align:center;
+}
+
+.HelpDeskTicketRowOdd
+{
+	background-color: #FFFFFF;
+}
+
+.HelpDeskTicketRowOdd:hover
+{
+	background-color: #FFFF00;
+}
+
+.HelpDeskTicketRowEven
+{
+	background-color: #DDDDDD;
+}
+
+.HelpDeskTicketRowEven:hover
+{
+	background-color: #FFFF00;
+}
+
+.HelpDeskBlockListTable
+{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 1px #000000 solid;
+}
+
+.HelpDeskBlockListTable td
+{
+	width: 50%;
+	padding: 5px;
+}
+
+.HelpDeskConfigTable
+{
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+	border: 1px #000000 solid;
+}
+
+.HelpDeskConfigTable tr td textarea
+{
+	width: 350px;
+}
+
+.HelpDeskAddMessageTable
+{
+	width: 400px;
+	margin:auto;
+	border: 1px #000000 solid;
+}

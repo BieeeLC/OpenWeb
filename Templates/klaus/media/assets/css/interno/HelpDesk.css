@@ -1,0 +1,101 @@
+/* CSS Document */
+.HelpDeskTicketsTable {
+	width: 100%;
+	border: 1px solid #1D2127;
+	margin-left:auto;
+	margin-right:auto;
+	border-spacing: 5px;
+        text-align: center;
+}
+
+.HelpDeskTicketsTable th {
+	background:rgba(29, 33, 39,0.5);
+        border: 1px solid #1D2127;
+	padding:10px;
+	color:#FFF;
+        text-align: center;
+}
+
+.HelpDeskTicketsTable td {
+	border-right: solid 1px #1D2127;
+	border-left: solid 1px #1D2127;
+	padding:5px;
+}
+
+.HelpDeskTicketsRow1 { background-color:rgba(29, 33, 39,0.5); }
+
+.HelpDeskTicketsRow2 { background-color:rgba(29, 33, 39,0.3); }
+
+.HelpDeskTicketsTable tr:hover {
+	background-color: rgba(29, 33, 39,0.3);
+	color:#FFF;
+	cursor:pointer;
+}
+
+.HelpDeskMessagesTable {
+	width:95%;
+	margin:10px;
+}
+
+.HelpDeskUserMessage { background-color:#C3C3C3; }
+
+.HelpDeskSupporterMessage { background-color: #BBBBBB; }
+
+.HelpDeskGenericTitle {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#000;
+	font-weight:bolder;
+	font-variant:small-caps;
+}
+
+.HelpDeskGenericText {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.HelpDeskUserTd {
+	width:0%;
+	font-weight:bold;
+	padding:3px;
+}
+
+.HelpDeskMessageTd { padding:3px; width:100%; }
+
+.HelpDeskViewTitle {
+	font-size:12px;
+	font-weight:bold;
+}
+
+.HelpDeskMessageBox {
+	background: #F3F3F3;
+	color:#000;
+	border:2px dashed #600;
+	width:98%;
+	height:150px;
+}
+
+.HelpDeskFileBox {
+	width:90%;
+}
+
+.HelpDeskSubmitButton {
+	background: #1D2127;
+	color:#fff;
+	font-size:13px;
+	font-weight:bold;
+	width:100%;
+        display: inline-block;
+	border: 1px solid #0088cc;
+	padding:5px;
+}
+
+.HelpDeskLabelProcessing { color:#060 }
+
+.HelpDeskLabelAnswered { color:#900 }
+
+.HelpDeskLabelFinished { color:#666 }
+
+.HelpDeskNewTicketLink { }
+
+.HelpDeskBackLink { }

@@ -1,0 +1,19 @@
+[20-Apr-2014 09:41:39 America/Sao_Paulo] PHP Warning:  session_start(): open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:41:39 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/iconemu/public_html/Manager/index.php:2) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:41:39 America/Sao_Paulo] PHP Warning:  Unknown: open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[20-Apr-2014 09:41:39 America/Sao_Paulo] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[20-Apr-2014 09:41:52 America/Sao_Paulo] PHP Warning:  session_start(): open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:41:52 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/iconemu/public_html/Manager/index.php:2) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:41:52 America/Sao_Paulo] PHP Warning:  Unknown: open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[20-Apr-2014 09:41:52 America/Sao_Paulo] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[20-Apr-2014 09:42:39 America/Sao_Paulo] PHP Warning:  session_start(): open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:42:39 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/iconemu/public_html/Manager/index.php:2) in /home/iconemu/public_html/Manager/index.php on line 2
+[20-Apr-2014 09:42:39 America/Sao_Paulo] PHP Warning:  Unknown: open(/tmp/sess_c69e34f2906005d993e5755eb709f541, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[20-Apr-2014 09:42:39 America/Sao_Paulo] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[03-Mar-2015 21:13:38 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:14:12 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:14:49 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:20:23 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:20:25 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:20:26 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:20:52 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0

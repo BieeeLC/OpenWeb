@@ -1,0 +1,640 @@
+/* CSS Document */
+select {
+    background-color: rgba(45, 52, 61,0.3);
+    border: 1px solid #FFF;
+    margin-bottom: 5px;
+    display: inline-block;
+    width: 100%;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+input[type="button"] {
+    border: 1px solid #0087CB;
+    background: #1D2127;
+    width: 100%;
+    display: block;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+.RankingResetsTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+.RankingResetsTable td {
+    border:1px solid #1D2127;
+    padding: 5px;
+}
+.RankingResetsTable th {
+    background-color: #1D2127;;
+    color:#FFF;
+    text-align: center;
+    padding: 10px;
+}
+
+.RankingResetsTableRow1 {
+    background-color: rgba(29, 33, 39,0.5);
+}
+
+.RankingResetsTableRow1:hover {
+    background-color: rgba(29, 33, 39,0.7);
+}
+
+.RankingResetsTableRow2 {
+    background-color: rgba(29, 33, 39,0.7);
+    border: 1px solid #1D2127;
+}
+
+.RankingResetsTableRow2:hover {
+    background-color: rgba(29, 33, 39,0.5);
+}
+
+.RankingResetsTable td#Position {
+    background-color: #1D2127;
+    color:#fff;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingResetsTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+
+.RankingResetsTable td#Level {
+    text-align:center;
+}
+
+.RankingResetsTable td#MasterResets {
+    background-color:#1D2127;
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingResetsTable td#Resets {
+    background-color:#1D2127;
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingResetsTable td#Class {
+    text-align:center;
+}
+
+.RankingResetsTable td#Guild {
+    text-align:center;
+}
+
+.RankingResetsTable td#Status {
+    text-align:center;
+}
+
+.RankingResetsTable td#OnlineTime {
+    text-align:center;
+}
+
+.RankingResetsTable td#Vip {
+    text-align:center;
+}
+
+.RankingResetsTable td#ResetsDay {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+.RankingResetsTable td#ResetsWeek {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+.RankingResetsTable td#ResetsMonth {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
+
+.RankingGuildsTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+
+.RankingGuildsTable th {
+    background-color:#1D2127;
+    color:#FFF;
+    padding: 10px;
+}
+.RankingGuildsTable td {
+    border: 1px solid #1D2127;
+    padding: 5px;
+}
+.RankingGuildsTableRow1 {
+    background-color: rgba(29, 33, 39,0.3);
+}
+
+.RankingGuildsTableRow1:hover {
+    background-color: rgba(29, 33, 39,0.5);
+}
+
+.RankingGuildsTableRow2 {
+    background-color: rgba(29, 33, 39,0.5);
+    border: 1px solid #1D2127;
+}
+
+.RankingGuildsTableRow2:hover {
+    background-color: rgba(29, 33, 39,0.3);
+}
+
+.RankingGuildsTable td#Position {
+    background-color:#1D2127;
+    color:#fff;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingGuildsTable td#Guild {
+    text-align:center;
+    font-weight:bold;
+}
+
+.RankingGuildsTable td#Assistant {
+    text-align:center;
+}
+
+.RankingGuildsTable td#Battle {
+    text-align:center;
+    font-size:9px;
+}
+
+.RankingGuildsTable td#Master {
+    text-align:center;
+}
+
+.RankingGuildsTable td#Resets {
+    background-color:rgba(29, 33, 39,0.5);
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingGuildsTable td#Score {
+    background-color:rgba(29, 33, 39,0.5);
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingGuildsTable td#CSWins {
+    background-color:rgba(29, 33, 39,0.5);
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingGuildsTable td#Members {
+    text-align:center;
+}
+
+.RankingGuildsTable td#Mark {
+    text-align:center;
+}
+
+
+
+
+
+
+.RankingLevelTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+.RankingLevelTable td {
+    padding: 5px;
+    border: 1px solid #1D2127;
+}
+.RankingLevelTable th {
+    background-color:#1D2127;
+    color:#FFF;
+    padding: 10px;
+}
+
+.RankingLevelTableRow1 {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingLevelTableRow1:hover {
+    background-color:rgba(29, 33, 39,0.5);
+}
+
+.RankingLevelTableRow2 {
+    background-color:rgba(29, 33, 39,0.5);
+    border: 1px solid #1D2127;
+}
+
+.RankingLevelTableRow2:hover {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingLevelTable td#Position {
+    background-color:#1D2127;
+    color:#fff;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingLevelTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+
+.RankingLevelTable td#Level {
+    text-align:center;
+}
+
+.RankingLevelTable td#MasterLevel {
+    background-color:rgba(29, 33, 39,0.3);
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingLevelTable td#Class {
+    text-align:center;
+}
+
+.RankingLevelTable td#Guild {
+    text-align:center;
+}
+
+.RankingLevelTable td#Status {
+    text-align:center;
+}
+
+.RankingLevelTable td#OnlineTime {
+    text-align:center;
+}
+
+.RankingLevelTable td#Vip {
+    text-align:center;
+}
+
+
+.RankingEventsTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+
+.RankingEventsTable th {
+    background-color:#333;
+    color:#FFF;
+}
+
+.RankingEventsTableRow1 {
+    background-color:#CCC;
+}
+
+.RankingEventsTableRow1:hover {
+    background-color:#FFF;
+}
+
+.RankingEventsTableRow2 {
+    background-color:#DFDFDF;
+    border: 10px solid #FFF;
+}
+
+.RankingEventsTableRow2:hover {
+    background-color:#FFF;
+}
+
+.RankingEventsTable td#Position {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+
+.RankingEventsTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+.RankingEventsTable td#Class {
+    text-align:center;
+}
+
+.RankingEventsTable td#Guild {
+    text-align:center;
+}
+
+.RankingEventsTable td#Status {
+    text-align:center;
+}
+
+.RankingEventsTable td#Resets {
+    text-align:center;
+}
+
+.RankingEventsTable td#OnlineTime {
+    text-align:center;
+}
+
+.RankingEventsTable td#Vip {
+    text-align:center;
+}
+.RankingEventsTable td#Score {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
+
+.RankingGensTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+
+.RankingGensTable td {
+    border: 1px solid #1D2127;
+    padding: 5px;
+}
+.RankingGensTable th {
+    background-color:#1D2127;
+    color:#FFF;
+    padding: 10px;
+}
+
+.RankingGensTableRow1 {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingGensTableRow1:hover {
+    background-color:rgba(29, 33, 39,0.5);
+}
+
+.RankingGensTableRow2 {
+    background-color:rgba(29, 33, 39,0.5);
+    border: 1px solid #1D2127;
+}
+
+.RankingGensTableRow2:hover {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingGensTable td#Rank {
+    background-color:rgba(29, 33, 39,0.5);
+    text-align:center;
+}
+
+.RankingGensTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+.RankingGensTable td#Class {
+    text-align:center;
+}
+
+.RankingGensTable td#Guild {
+    text-align:center;
+}
+
+.RankingGensTable td#Status {
+    text-align:center;
+}
+
+.RankingGensTable td#Resets {
+    text-align:center;
+}
+
+.RankingGensTable td#Vip {
+    text-align:center;
+}
+.RankingGensTable td#Contribution {
+    background-color:rgba(29, 33, 39,0.5);
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
+
+.RankingDuelTable {
+    width: 99%;
+    margin: auto;
+    border: 2px solid #FFF;
+}
+
+.RankingDuelTable th {
+    background-color:#333;
+    color:#FFF;
+}
+
+.RankingDuelTableRow1 {
+    background-color:#CCC;
+}
+
+.RankingDuelTableRow1:hover {
+    background-color:#FFF;
+}
+
+.RankingDuelTableRow2 {
+    background-color:#DFDFDF;
+    border: 10px solid #FFF;
+}
+
+.RankingDuelTableRow2:hover {
+    background-color:#FFF;
+}
+
+.RankingDuelTable td#Rank {
+    background-color:#FFF;
+    text-align:center;
+}
+
+.RankingDuelTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+.RankingDuelTable td#Class {
+    text-align:center;
+}
+
+.RankingDuelTable td#Guild {
+    text-align:center;
+}
+
+.RankingDuelTable td#Status {
+    text-align:center;
+}
+
+.RankingDuelTable td#Resets {
+    text-align:center;
+}
+
+.RankingDuelTable td#Vip {
+    text-align:center;
+}
+
+.RankingDuelTable td#WinScore {
+    text-align:center;
+}
+
+.RankingDuelTable td#LoseScore {
+    text-align:center;
+}
+
+.RankingDuelTable td#Balance {
+    background-color:#FFF;
+    color:#FFF;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
+.RankingPKTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+
+.RankingPKTable td {
+    border: 1px solid #1D2127;
+    padding: 5px;
+}
+
+.RankingPKTable th {
+    background-color:#1D2127;
+    color:#FFF;
+    padding: 10px;
+}
+
+.RankingPKTableRow1 {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingPKTableRow1:hover {
+    background-color:rgba(29, 33, 39,0.5);
+}
+
+.RankingPKTableRow2 {
+    background-color:rgba(29, 33, 39,0.5);
+    border: 1px solid #1D2127;
+}
+
+.RankingPKTableRow2:hover {
+    background-color:rgba(29, 33, 39,0.3);
+}
+
+.RankingPKTable td#Position {
+    background-color:#1D2127;
+    text-align:center;
+}
+
+.RankingPKTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+.RankingPKTable td#Class {
+    text-align:center;
+}
+
+.RankingPKTable td#Guild {
+    text-align:center;
+}
+
+.RankingPKTable td#Resets {
+    text-align:center;
+}
+
+.RankingPKTable td#Vip {
+    text-align:center;
+}
+
+.RankingPKTable td#Score {
+    background-color:rgba(29, 33, 39,0.5);;
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
+.RankingOnlineTable {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #1D2127;
+    text-align: center;
+}
+.RankingOnlineTable td {
+    border: 1px solid #1D2127;
+    padding: 5px;
+}
+.RankingOnlineTable th {
+    background-color:#1D2127;
+    color:#FFF;
+    padding: 10px;
+}
+.RankingOnlineTableRow1 {
+    background-color:rgba(29, 33, 39,0.3);
+}
+.RankingOnlineTableRow1:hover {
+    background-color:rgba(29, 33, 39,0.5);
+}
+.RankingOnlineTableRow2 {
+    background-color:rgba(29, 33, 39,0.5);
+    border: 1px solid #1D2127;
+}
+.RankingOnlineTableRow2:hover {
+    background-color:rgba(29, 33, 39,0.3);
+}
+.RankingOnlineTable td#Position {
+    background-color:#1D2127;
+    text-align:center;
+}
+.RankingOnlineTable td#Name {
+    text-align:center;
+    font-weight:bold;
+}
+.RankingOnlineTable td#Class {
+    text-align:center;
+}
+.RankingOnlineTable td#Status {
+    text-align:center;
+}
+.RankingOnlineTable td#Guild {
+    text-align:center;
+}
+.RankingOnlineTable td#Resets {
+    text-align:center;
+}
+.RankingOnlineTable td#Vip {
+    text-align:center;
+}
+.RankingOnlineTable td#OnlineTime {
+    background-color:#1D2127;
+    color:#0088cc;
+    font-weight: bold;
+    text-align:center;
+}
+

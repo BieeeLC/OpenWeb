@@ -1,0 +1,7 @@
+[25-Dec-2014 17:32:49 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 17:33:48 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[25-Dec-2014 23:12:34 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 177.54.147.33 in /home/iconemu/public_html/System/MuDatabase.class.php on line 233
+[03-Mar-2015 21:09:50 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[03-Mar-2015 21:10:02 America/Sao_Paulo] PHP Fatal error:  Directive 'safe_mode' is no longer available in PHP in Unknown on line 0
+[08-Mar-2015 23:21:00 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '/home/iconemu/public_html/Manager/Language/ptbr/WebShop.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iconemu/public_html/System/ItemFinder.php on line 15
+[08-Mar-2015 23:24:38 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '/home/iconemu/public_html/Manager/Language/ptbr/WebShop.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iconemu/public_html/System/ItemFinder.php on line 15

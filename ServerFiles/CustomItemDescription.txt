@@ -1,0 +1,557 @@
+// Ferrarezi Web
+// Custom Item Description Config File
+// Last Review 07/09/2011 by Ferrarezi
+// Thanks to Beeware from IllusionTeam.com
+// ---------------------------------------------
+
+//===================
+// Category 12
+//===================
+12	15	0	"Usado para fazer combinações"
+
+12	30	0	"10 Joia da Benção foram combinados"
+12	30	0	"Pode ser usado somente após desmixar"
+12	30	1	"20 Joia da Benção foram combinados"
+12	30	1	"Pode ser usado somente após desmixar"
+12	30	2	"30 Joia da Benção foram combinados"
+12	30	2	"Pode ser usado somente após desmixar"
+
+12	31	0	"10 Joia da Alma foram combinados"
+12	31	0	"Pode ser usado somente após desmixar"
+12	31	1	"20 Joia da Alma foram combinados"
+12	31	1	"Pode ser usado somente após desmixar"
+12	31	2	"30 Joia da Alma foram combinados"
+12	31	2	"Pode ser usado somente após desmixar"
+
+12	32	0	"Ao jogar no chao, poderá receber zen ou itens"
+12	33	0	"Ao jogar no chao, poderá receber zen ou itens"
+12	34	0	"Ao jogar no chao, poderá receber zen ou itens"
+
+//===================
+// Category 13
+//===================
+13	0	0	"Absorve 20% de dano"
+13	0	0	"Aumenta vida máxima em +50"
+
+13	1	0	"Aumenta em 30% o dano fisico e magico"
+
+13	3	0	"Aumenta em 15% o dano"
+13	3	0	"Absorve 20% de dano"
+
+13	4	0	"Habilidade Earthshake"
+13	4	0	"Aumenta em 8, a habilidade de defesa"
+13	4	0	"Absorve 15% de dano adicional do oponente"
+13	4	0	"Aumenta em 2, o limite de distancia do ataque"
+
+13	14	0	"Utilizado na combinação para criação de asas de nivel dois"
+
+13	14	1	"Utilizado na combinação para criação de Cape of Lord e Cape of Warrior"
+
+13	15	1	"Aumenta de 1 a 3 pontos em atributo de energia"
+13	15	1	"Pode diminuir de 1 a 9 pontos de atributo de energia"
+
+13	15	2	"Aumenta de 1 a 3 pontos em atributo de vitalidade"
+13	15	2	"Pode diminuir de 1 a 9 pontos de atributo de vitalidade"
+
+13	15	3	"Aumenta de 1 a 3 pontos em atributo de agilidade"
+13	15	3	"Pode diminuir de 1 a 9 pontos de atributo de agilidade"
+
+13	15	4	"Aumenta de 1 a 3 pontos em atributo de força"
+13	15	4	"Pode diminuir de 1 a 9 pontos de atributo de força"
+
+13	15	4	"Aumenta de 1 a 3 pontos em atributo de comando"
+13	15	4	"Pode diminuir de 1 a 9 pontos de atributo de comando"
+
+13	16	0	"Usado na criação de Invisibility Cloak"
+
+13	17	0	"Usado na criação de Invisibility Cloak"
+
+13	18	0	"Usado para entrar em Blood Castle"
+
+13	19	0	"Item de quest"
+13	19	1	"Item de quest"
+13	19	2	"Item de quest"
+
+13	20	0	"Aumenta em 10% o dano mágico"
+13	20	0	"Aumenta 10% do dano"
+13	20	0	"Aumenta em dez, a velocidade de ataque mágico"
+
+13	20	1	"Poderá ser dropado, quando o nível do personagem for superior a 40"
+13	20	2	"Poderá ser dropado, quando o nível do personagem for superior a 80"
+
+13	29	0	"Usado para entrar em Chaos Castle"
+
+13	31	0	"Usado para a criação de dark horse"
+
+13	31	1	"Usado para a criação de dark raven"
+
+13	32	0	"Usado para criação do Fragment of Honor"
+13	33	0	"Usado para criação do Fragment of Honor"
+
+13	34	0	"Usado para criação do Broken Horn"
+13	35	0	"Usado para criação do Broken Horn"
+
+13	36	0	"Usado na criação do Horn of Fenrir"
+
+13	37	0	"Habilidade Plasma Storm"
+13	37	0	"Pode ser melhorado por meio de combinações do chaos"
+
+13	38	0	"Utilizado para entrar na torre de refinaria de Kantru"
+
+13	39	0	"Aumenta em 10% a habilidade de defesa"
+13	39	0	"Aumenta um ponto em vitalidade."
+
+13	41	0	"Aumenta 20% de dano"
+13	41	0	"Aumenta 20% de dano mágico"
+
+13	42	0	"Aumenta em 255, o dano de habilidade de atributos de gelo/veneno/raio/fogo/terra/vento/água
+
+13	43	0	"Aumenta a taxa de experiencia em 50%"
+
+13	44	0	"Aumenta a taxa de experiencia em 100% e o drop de itens"
+
+13	45	0	"Impede o ganho de experiencia"
+
+13	46	0	"Permite a entrada em Devil Square"
+13	46	0	"Você entrará no estágio referente ao seu nível<br />Branco: Pode ser utilizado até 10 vezes."
+13	46	0	"Branco: Pode ser utilizado até 10 vezes."
+
+13	47	0	"Permite a entrada em Blood Castle"
+13	47	0	"Você entrará no estágio referente ao seu nível"
+13	47	0	"Branco: Pode ser utilizado até 10 vezes."
+
+13	48	0	"Permite a entrada em Kalima"
+13	48	0	"Você entrará no estágio referente ao seu nível"
+13	48	0	"Branco: Pode ser utilizado até 0 vezes."
+
+13	49	0	"Utilizado na criação do Scroll of Blood"
+13	50	0	"Utilizado na criação do Scroll of Blood"
+
+13	51	0	"Nescessario para entrar em Illusion Temple"
+
+13	52	0	"Utilizado na combinação para criação de asas de nivel três."
+13	53	0	"Utilizado na combinação para criação de asas de nivel três."
+
+13	54	0	"Redefine para 0, os pontos de atributo"
+13	55	0	"Redefine para 1000, os pontos de atributo"
+13	56	0	"Redefine para 1000, os pontos de atributo"
+13	57	0	"Redefine para 1000, os pontos de atributo"
+13	58	0	"Redefine para 1000, os pontos de atributo"
+
+13	59	0	"Utilizado para mover-se livremente a outras cidades."
+
+13	60	0	"Reduz taxa de mortalidade"
+
+13	61	0	"Permite a entrada em Illusion Temple"
+13	61	0	"Você entrará no estágio referente ao seu nível"
+13	61	0	"Branco: Pode ser utilizado até 10 vezes."
+
+13	62	0	"Aumenta em 150% a taxa de experiencia"
+13	62	0	"Aumenta em 5% a recuperacao automatica de vida"
+13	62	0	"Aumenta experiencia e incrementa a recuperacao automatica de vida"
+
+13	63	0	"Aumenta em 150% a taxa de drop"
+13	63	0	"Aumenta em 5% a recuperacao automatica de mana"
+13	63	0	"Aumenta taxa de drop e incrementa a recuperacao automatica de mana"
+
+13	64	0	"Aumenta em 40% o ataque fisico e mágico"
+13	64	0	"Aumenta em 10, a velocidade de ataque"
+
+13	65	0	"Reduz em 30% o dano de monstros"
+13	65	0	"Aumenta em a 50, a vida máxima"
+
+13	66	0	"Ao clicar com o botão direito do mouse, se moverá para Santa Village"
+13	66	0	"Pode ser utilizado até 10 vezes."
+
+13	67	0	"Coleta automaticamente o zen dropado por perto."
+
+13	69	0	"Registra o local de morte"
+
+13	70	0	"Registra o local onde o mesmo, foi utilizado"
+
+13	71	0	"As opções extras são adicionadas aleatoriamente"
+13	72	0	"As opções extras são adicionadas aleatoriamente"
+13	73	0	"As opções extras são adicionadas aleatoriamente"
+13	74	0	"As opções extras são adicionadas aleatoriamente"
+13	75	0	"As opções extras são adicionadas aleatoriamente"
+
+13	76	0	"Transforma personagem em panda"
+13	76	0	"Aumenta em 50% o zen do inventário"
+13	76	0	"Aumenta em 50, a habilidade de defesa"
+
+13	80	0	"Coleta automaticamente o zen dropado por perto"
+13	80	0	"Aumento de 50% de taxa de experiencia"
+13	80	0	"Aumenta em 50, a habilidade de defesa"
+
+13	81	0	"Experiencia e itens são mantidos quando o personagem morrer"
+13	81	0	"Não há penalidade por morte"
+
+13	82	0	"A durabilidade do item nao diminuira por um certo periodo"
+13	82	0	"Aplicavel apenas em montarias, além de mascotes"
+
+13	83	0	"Define o resultado final da criação de asa de nv. 1, para Wings of Satan"
+13	84	0	"Define o resultado final da criação de asa de nv. 1, para Wings of Heaven"
+13	85	0	"Define o resultado final da criação de asa de nv. 1, para Wings of Elf"
+13	86	0	"Define o resultado final da criação de asa de nv. 1, para Wings of Curse"
+13	87	0	"Define o resultado final da criação de asa/capa de nv. 2, para Cape of Emperor"
+13	88	0	"Define o resultado final da criação de asa de nv. 2, para Wings of Dragon"
+13	89	0	"Define o resultado final da criação de asa de nv. 2, para Wings of Soul"
+13	90	0	"Define o resultado final da criação de asa de nv. 2, para Wings of Spirits"
+13	91	0	"Define o resultado final da criação de asa de nv. 2, para Wings of Despair"
+13	92	0	"Define o resultado final da criação de asa de nv. 2, para Wings of Darkness"
+
+13	93	0	"Aumenta taxa de experiencia"
+13	93	0	"Libera o teletransporte para outras cidades"
+
+13	94	0	"Aumenta taxa de experiencia e de drop"
+13	94	0	"Libera o teletransporte para outras cidades"
+
+13	106	0	"Coleta automaticamente zen ao redor do personagem."
+13	106	0	"Aumento de Zen em +50%"
+13	106	0	"Aumenta habilidade de defesa em +50"
+
+13	109	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	109	0	"Aumenta em 4% a vida máxima"
+
+13	110	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	110	0	"Aumenta em 4% a vida máxima"
+
+13	111	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	111	0	"Aumenta em 30% a taxa de drop de zen após caçar monstros."
+
+13	112	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	112	0	"Reduz 4% de dano recebido"
+
+13	113	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	113	0	"Aumenta em 10% a taxa de dano excelente"
+
+13	114	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	114	0	"Aumenta em 7% a velocidade de ataque"
+
+13	115	0	"Aumenta em 3% a recuperacao automatica de vida"
+13	115	0	"Aumenta a taxa de aquisição de mana em mana/8"
+
+13	116	0	"Aumenta a taxa de drop de itens"
+
+13	121	0	"Permite a entrada em Chaos Castle"
+13	121	0	"Você entrará no estágio referente ao seu nível"
+13	121	0	"Pode ser utilizado até 10 vezes."
+
+13	122	0	"Utilizado para se tranformar em Skeleton Warrior"
+13	122	0	"Dano/Magia/Maldicao +40%<br />Se equipado com Skeleton Pet, a taxa de experiencia aumenta em 30%"
+13	122	0	"Se equipado com Skeleton Pet, a taxa de experiencia aumenta em 30%"
+
+13	123	0	"Coleta automaticamente o zen dropado por perto"
+13	123	0	"Aumento Dano/Magia/Maldicao em 20%"
+13	123	0	"Aumenta em 10, a velocidade de ataque e em 30% a taxa de experiencia."
+
+//===================
+// Category 14
+//===================
+14	7	0	"Aumenta em 20% o dano"
+14	7	0	"Duração de 60 segundos"
+14	7	0	"Aplicavel somente no portao e estátua de castle siege"
+
+14	7	1	"Aumenta em 5, a recuperacao automatica de AG"
+14	7	1	"Aumenta resitencia a raio e gelo"
+14	7	1	"Velocidade de ataque aumentará em +20"
+
+14	11	0	"Jogue ao chão para receber sua recompensa"
+14	11	1	"Jogue ao chão para receber sua recompensa"
+14	11	2	"Jogue ao chão para receber sua recompensa"
+14	11	3	"Jogue ao chão para receber sua recompensa"
+14	11	4	"Jogue ao chão para receber sua recompensa"
+14	11	5	"Jogue ao chão para receber sua recompensa"
+14	11	6	"Jogue ao chão para receber sua recompensa"
+14	11	7	"Jogue ao chão para receber sua recompensa"
+14	11	8	"Jogue ao chão para receber sua recompensa"
+14	11	9	"Jogue ao chão para receber sua recompensa"
+14	11	10	"Jogue ao chão para receber sua recompensa"
+14	11	11	"Jogue ao chão para receber sua recompensa"
+14	11	12	"Jogue ao chão para receber sua recompensa"
+14	11	13	"Jogue ao chão para receber sua recompensa"
+
+14	12	0	"Registre entragando este item ao NPC"
+14	12	1	"Registre entragando este item ao NPC"
+14	12	2	"Registre entragando este item ao NPC"
+
+14	13	0	"Utilizado para elevar o nível de itens até +6"
+14	14	0	"Utilizado para elevar nível de itens de +6 até +9"
+
+14	16	0	"Aumenta a opção de adicionais dos itens"
+
+14	17	0	"Utilizado na criação de itens para a Devil Square"
+14	18	0	"Utilizado na criação de itens para a Devil Square"
+14	19	0	"Utilizado para entrar em Devil Square"
+
+14	21	3	"Usado para registrar a guild no Castle Siege"
+
+14	22	0	"Usado para criar frutas que aumentao os atributos"
+
+14	23	0	"Item de quest"
+14	23	1	"Item de quest"
+14	24	0	"Item de quest"
+14	24	1	"Item de quest"
+14	25	0	"Item de quest"
+14	26	0	"Item de quest"
+
+14	31	0	"Criar e melhorar itens para Castle Siege"
+
+14	32	0	"Jogue ao chão para receber sua recompensa"
+14	32	1	"Jogue ao chão para receber sua recompensa"
+14	33	0	"Jogue ao chão para receber sua recompensa"
+14	33	1	"Jogue ao chão para receber sua recompensa"
+14	34	0	"Jogue ao chão para receber sua recompensa"
+14	34	1	"Jogue ao chão para receber sua recompensa"
+
+14	41	0	"Jóia com impuresas, mas pode ser refinada"
+
+14	42	0	"Faz melhorias em itens"
+
+14	43	0	"Concede poder real, ao item reforçado"
+14	44	0	"Concede poder real, ao item reforçado"
+
+14	45	0	"Jogue ao chão para receber sua recompensa"
+
+14	46	0	"Jack O'Lantern Blessings" 
+14	47	0	"Jack O'Lantern Wrath" 
+14	48	0	"Jack O'Lantern Cry"
+14	49	0	"Jack O'Lantern Food"  
+14	50	0	"Jack O'Lantern Drink"
+
+14	51	0	"Ao dropar, cria efeito de fogos de artificio"
+
+14	52	0	"Este é um presete dado por GM's, Jogue ao chão para receber sua recompensa"   
+ 
+14	53	0	"Aumenta a taxa de combinação, mas só até a taxa máxima"
+
+14	54	0	"Pode lhe dar itens especiais, atravéz da NPC Chaos Master" 
+14	55	0	"Jogue ao chão para receber sua recompensa"
+14	56	0	"Jogue ao chão para receber sua recompensa"
+14	57	0	"Jogue ao chão para receber sua recompensa"
+
+14	63	0	"Ao dropar, cria efeito de fogos de artificio"
+
+14	64	0	"Reduz velocidade de movimento"
+
+14	65	0	"Item de quest"
+14	66	0	"Item de quest"
+14	67	0	"Item de quest" 
+14	68	0	"Item de quest"
+
+14	70	0	"Recupera imediatamente 100% de sua vida" 
+14	71	0	"Recupera imediatamente 100% de sua mana"
+
+14	72	0	"Aumenta velocidade de ataque"  
+14	73	0	"Aumenta a defesa"
+14	74	0	"Aumenta poder de ataque"
+14	75	0	"Aumenta poder mágico"
+14	76	0	"Aumenta a vida"
+14	77	0	"Aumenta sua mana"
+14	78	0	"Aumento de força"
+14	79	0	"Aumenta de agilidade"
+14	80	0	"Aumenta de vida"
+14	81	0	"Aumenta de Energia"
+14	82	0	"Aumenta de Comando"
+14	84	0	"Jogue ao chão para receber sua recompensa"
+
+14	85	0	"Aumenta em 700, o maximo de mana"  
+14	86	0	"Aumenta em 700, o maximo de vida"
+
+14	87	0	"Aumenta poder de ataque"
+
+14	88	0	"Após a coleta, pode ser trocado por recompensas"
+14	89	0	"Após a coleta, pode ser trocado por recompensas"
+14	90	0	"Após a coleta, pode ser trocado por recompensas"
+
+14	96	0	"Ao elevar nível de itens de +10 a +13, não terá o risco do item se partir"
+
+14	97	0	"Aumenta em 20% o dano crítico"
+14	98	0	"Aumenta em 20% o dano excelente"
+
+14	100	0	"Ao entregar para o NPC, receba recomepnsas" 
+14	101	0	"Pedaço de papel, que contem um texto que incompreensivel"
+14	102	0	"Contém informações secretas sobre os planos de Gaion"
+
+14	103	0	"Fragmento de um Secromicon"
+14	104	0	"Fragmento de um Secromicon"
+14	105	0	"Fragmento de um Secromicon"
+14	106	0	"Fragmento de um Secromicon"
+14	107	0	"Fragmento de um Secromicon"
+14	108	0	"Fragmento de um Secromicon"
+
+14	109	0	"Secromicon de metal indestrutivel"
+
+14	110	0	"Colete 5 unidade para criar o Mirror of Dimensions"
+14	111	0	"Permição para que Lugard deixe você ir até Doppeganger" 
+
+14	112	0	"Faça combinações com a caixa lacrada para criar Silver Box" 
+14	113	0	"Faça combinações com a caixa lacrada para criar Golden Box" 
+  
+14	120	0	"Usado para adquirir Goblins Points"
+
+14	121	0	"Faça combinações com a Golden Key para criar a Golden Box"
+14	122	0	"Faça combinações com a Silver Key para criar a Silver Box"
+
+14	123	0	"Jogue ao chão para receber sua recompensa" 
+14	124	0	"Jogue ao chão para receber sua recompensa"
+ 
+14	134	0	"Caixa que contem vários itens"
+14	135	0	"Caixa que contem vários itens"
+14	136	0	"Caixa que contem vários itens"
+14	137	0	"Caixa que contem vários itens"
+14	138	0	"Caixa que contem vários itens"
+14	139	0	"Caixa que contem vários itens"
+
+14	140	0	"Aumenta em 3% recuperação automatica de vida"
+14	140	0	"Aumenta em 100, a vida máxima"
+
+14	141	0	"Jogue ao chão para receber sua recompensa" 
+14	142	0	"Jogue ao chão para receber sua recompensa" 
+14	143	0	"Jogue ao chão para receber sua recompensa"
+14	144	0	"Jogue ao chão para receber sua recompensa"
+
+//===================
+// Seeds
+//===================
+12	60	0	"Aumenta dano fisico e mágico com base no nível"
+12	60	1	"Aumento de velocidade"
+12	60	2	"Aumento de dano minimo"
+12	60	3	"Aumento de dano máximo"
+12	60	4	"Aumento de dano"
+12	60	5	"Reduz a taxa de comsumo de SD"
+12	61	0	"Aumenta a taxa de sucesso de defesa"
+12	61	1	"Aumento de defesa"
+12	61	2	"Aumento da proteção de escudo"
+12	61	3	"Redução de dano recebido"
+12	61	4	"Reflete o dano recebido"
+12	62	0	"Aumento de vida após destruição de monstros"
+12	62	1	"Aumento de mana após destruição de monstros"
+12	62	2	"Aumento de poder mágico"
+12	62	3	"Aumenta a taxa de sucesso de ataque"
+12	62	4	"Aumenta a taxa de durabilidade do item"
+12	63	0	"Aumenta a taxa de recuperação de vida"
+12	63	1	"Aumento de vida máxima"
+12	63	2	"Aumento de mana máxima"
+12	63	3	"Aumenta taxa de recuperação de mana"
+12	63	4	"Aumenta a capacidade máxima de AG"
+12	63	5	"Aumenta taxa de recuperação de AG"
+12	64	0	"Aumento de dano excelente"
+12	64	1	"Aumenta chance de dano excelente"
+12	64	2	"Aumento de dano crítico"
+12	64	3	"Aumenta chance de dano crítico"
+12	65	0	"Aumento de vitalidade"
+//===================
+// Seed Spheres
+//===================
+12	100	0	"Aumenta dano fisico e mágico com base no nível"
+12	100	1	"Aumento de velocidade"
+12	100	2	"Aumento de dano minimo"
+12	100	3	"Aumento de dano máximo"
+12	100	4	"Aumento de dano"
+12	100	5	"Reduz a taxa de comsumo de SD"
+12	101	0	"Aumenta a taxa de sucesso de defesa"
+12	101	1	"Aumento de defesa"
+12	101	2	"Aumento da proteção de escudo"
+12	101	3	"Redução de dano recebido"
+12	101	4	"Reflete o dano recebido"
+12	102	0	"Aumento de vida após destruição de monstros"
+12	102	1	"Aumento de mana após destruição de monstros"
+12	102	2	"Aumento de poder mágico"
+12	102	3	"Aumenta a taxa de sucesso de ataque"
+12	102	4	"Aumenta a taxa de durabilidade do item"
+12	103	0	"Aumenta a taxa de recuperação de vida"
+12	103	1	"Aumento de vida máxima"
+12	103	2	"Aumento de mana máxima"
+12	103	3	"Aumenta taxa de recuperação de mana"
+12	103	4	"Aumenta a capacidade máxima de AG"
+12	103	5	"Aumenta taxa de recuperação de AG"
+12	104	0	"Aumento de dano excelente"
+12	104	1	"Aumento de dano excelente Rate"
+12	104	2	"Aumento de dano crítico"
+12	104	3	"Aumento de dano crítico Rate"
+12	105	0	"Aumento de vitalidade"
+//===============================================
+12	106	0	"Aumenta dano fisico e mágico com base no nível"
+12	106	1	"Aumento de velocidade"
+12	106	2	"Aumento de dano minimo"
+12	106	3	"Aumento de dano máximo"
+12	106	4	"Aumento de dano"
+12	106	5	"Reduz a taxa de comsumo de SD"
+12	107	0	"Aumenta a taxa de sucesso de defesa"
+12	107	1	"Aumento de defesa"
+12	107	2	"Aumento da proteção de escudo"
+12	107	3	"Redução de dano recebido"
+12	107	4	"Reflete o dano recebido"
+12	108	0	"Aumento de vida após destruição de monstros"
+12	108	1	"Aumento de mana após destruição de monstros"
+12	108	2	"Aumento de poder mágico"
+12	108	3	"Aumenta a taxa de sucesso de ataque"
+12	108	4	"Aumenta a taxa de durabilidade do item"
+12	109	0	"Aumenta a taxa de recuperação de vida"
+12	109	1	"Aumento de vida máxima"
+12	109	2	"Aumento de mana máxima"
+12	109	3	"Aumenta taxa de recuperação de mana"
+12	109	4	"Aumenta a capacidade máxima de AG"
+12	109	5	"Aumenta taxa de recuperação de AG"
+12	110	0	"Aumento de dano excelente"
+12	110	1	"Aumento de dano excelente Rate"
+12	110	2	"Aumento de dano crítico"
+12	110	3	"Aumento de dano crítico Rate"
+12	111	0	"Aumento de vitalidade"
+//===============================================
+12	112	0	"Aumenta dano fisico e mágico com base no nível"
+12	112	1	"Aumento de velocidade"
+12	112	2	"Aumento de dano minimo"
+12	112	3	"Aumento de dano máximo"
+12	112	4	"Aumento de dano"
+12	112	5	"Reduz a taxa de comsumo de SD"
+12	113	0	"Aumenta a taxa de sucesso de defesa"
+12	113	1	"Aumento de defesa"
+12	113	2	"Aumento da proteção de escudo"
+12	113	3	"Redução de dano recebido"
+12	113	4	"Reflete o dano recebido"
+12	114	0	"Aumento de vida após destruição de monstros"
+12	114	1	"Aumento de mana após destruição de monstros"
+12	114	2	"Aumento de poder mágico"
+12	114	3	"Aumenta a taxa de sucesso de ataque"
+12	114	4	"Aumenta a taxa de durabilidade do item"
+12	115	0	"Aumenta a taxa de recuperação de vida"
+12	115	1	"Aumento de vida máxima"
+12	115	2	"Aumento de mana máxima"
+12	115	3	"Aumenta taxa de recuperação de mana"
+12	115	4	"Aumenta a capacidade máxima de AG"
+12	115	5	"Aumenta taxa de recuperação de AG"
+12	116	0	"Aumento de dano excelente"
+12	116	1	"Aumento de dano excelente Rate"
+12	116	2	"Aumento de dano crítico"
+12	116	3	"Aumento de dano crítico Rate"
+12	117	0	"Aumento de vitalidade"
+//===============================================
+12	118	0	"Aumenta dano fisico e mágico com base no nível"
+12	118	1	"Aumento de velocidade"
+12	118	2	"Aumento de dano minimo"
+12	118	3	"Aumento de dano máximo"
+12	118	4	"Aumento de dano"
+12	118	5	"Reduz a taxa de comsumo de SD"
+12	119	0	"Aumenta a taxa de sucesso de defesa"
+12	119	1	"Aumento de defesa"
+12	119	2	"Aumento da proteção de escudo"
+12	119	3	"Redução de dano recebido"
+12	119	4	"Reflete o dano recebido"
+12	120	0	"Aumento de vida após destruição de monstros"
+12	120	1	"Aumento de mana após destruição de monstros"
+12	120	2	"Aumento de poder mágico"
+12	120	3	"Aumenta a taxa de sucesso de ataque"
+12	120	4	"Aumenta a taxa de durabilidade do item"
+12	121	0	"Aumenta a taxa de recuperação de vida"
+12	121	1	"Aumento de vida máxima"
+12	121	2	"Aumento de mana máxima"
+12	121	3	"Aumenta taxa de recuperação de mana"
+12	121	4	"Aumenta a capacidade máxima de AG"
+12	121	5	"Aumenta taxa de recuperação de AG"
+12	122	0	"Aumento de dano excelente"
+12	122	1	"Aumento de dano excelente Rate"
+12	122	2	"Aumento de dano crítico"
+12	122	3	"Aumento de dano crítico Rate"
+12	123	0	"Aumento de vitalidade"
